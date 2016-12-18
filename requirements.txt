@@ -1,0 +1,5 @@
+langid==1.1.6
+markovify==0.5.2
+numpy==1.11.2
+pkg-resources==0.0.0
+Unidecode==0.4.19
