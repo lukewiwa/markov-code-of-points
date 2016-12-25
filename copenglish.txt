@@ -782,11 +782,6 @@ area.
 D.
 Variations in the seating arrangement are possible depending on
 the conditions available in the competition hall.
--	
--	
--	
--	
--	
 Adherence to the correct order of the teams and gymnasts.
 Operating the green and red lights.
 Correct flashing of the Final Score.
@@ -1450,32 +1445,20 @@ Petite
 0.30
 0.50
 +
-+
-+
-+
-+
-+
 Non-distinct positions (tuck,
 pike, straight).
-+
+
 Adjust or correct hand or
 grip position each time.
-+
+
 Touching apparatus or floor
 with legs or feet.
-+
-+
+
 apart.
-+
-+
-+
-+
-des
-des
+
 Saltos with knees or legs
 apart.
-des
-des
+
 Legs apart on landing.
 1.0
 Loss of balance during any
@@ -1484,15 +1467,7 @@ total for steps and hops).
 grand pas
 des mains
 jury “D”
-+
-+
-+
-+
-+
-+
-+
-+
-+
+
 ≤ shoulder
 width
 > shoulder
@@ -1501,7 +1476,7 @@ width
 width
 > shoulder
 width
-+
+
 Large step
 or hop or
 touching
@@ -1512,23 +1487,7 @@ saltos).
 1.0 and non
 the "D” Jury
 0.50
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-> anchura
-> anchura
-+
-o salto o
-colchoneta
-manos
+
 1.0
 +
 +
@@ -1539,10 +1498,7 @@ Media
 0.30
 1.0
 Code MAG 2017
-+
-+
-+
-+
+
 Fall during any landing
 without feet contacting mat
 first.
@@ -1550,74 +1506,49 @@ first.
 Fall or support with 1 or 2
 hands during any landing.
 Other aesthetic errors.
-+
-+
+
 Slight
 small step
 or hop, 0.1
-+
+
 Atypical straddle.
-+
-+
+
 Poor posture or body position or postural corrections
 in end positions.
 Unsteadiness, minor adjustment of feet, or excessive
 arm swings on landing.
-+
-pas
+
 Large
 0.50
 Interruption of exercise
 without fall.
-+
-+
+
 Hitting apparatus or floor.
-+
+
 position finale
 Medium
 0.30
-+
+
 Gymnast touched but not
 assisted by spotter during
-+
+
 Small
 0.10
 Deductions for aesthetic and execution errors
 Walking in handstand or
 hopping (each step or hop).
 Error
-+
-+
-+
-+
+
 34
-Fautes
-Petite
+
 0.10
 0.30
 0.50
-reconnu
-reconnu
-+
-+
-+
-+
+
 (2 s.).
-reconnu
-+
-+
-sec
-sans
-reconnu
-+
-+
-+
-reconnu
-+
-+
-+
+
 1,0
-reconnu par
+
 le jury D
 +
 +
@@ -1642,14 +1573,13 @@ up to 15°
 recognition
 deductions equivalent to those for the hold
 position are repeated
-+
-+
+
 Additional or intermediate
 hand support.
-+
+
 Strength with swing and
 vice versa.
-+
+
 Interruption in upward
 movement.
 Lowering of legs on elements to a handstand (from
@@ -1657,23 +1587,15 @@ original position)
 Unsteadiness in or fall from
 handstand.
 recognition
-reconoc.
-reconoc.
-+
-+
-+
+
 viceversa.
-+
+
 less 2 sec.
 non stop and
 non- recognition
-+
-+
-+
-+
-+
+
 swing or
-+
+
 Fall from or onto apparatus.
 1,0
 Intermediate swing or
@@ -1683,35 +1605,21 @@ layaway
 Assistance by spotter in the
 completion of an element.
 Lack of extension in preparation for landing.
-+
-+
+
 Other technical errors.
-+
-+
+
 Code MAG 2017
-+
-+
-+
-+
-rec.
-+
-+
-balanceo o
-caerse
-+
-aparato.
+
 1.0 and non –
 recognition by
 the “D” Jury
-reconc.
-+
+
 whole
-+
-+
+
 Two or more attempts at a
 hold or strength part.
 0.50
-+
+
 Duration of hold parts (2 sec.).
 Media
 0.30
@@ -1722,31 +1630,21 @@ Small
 0.10
 Error
 1,0
-vuelo
-entero
-+
-+
-+
-+
-+
-35
-PARTIE III
+
 PART III
 Apparatus
-PARTE III
-- Suelo
+
 - Pommel Horse
 - Rings
-- Saut
+
 - Vault
-- Salto
+
 - Parallel Bars
-- Paralelas
+
 - Horizontal Bar
-- Barra
+
 Code MAG 2017
 36
-Section 10: Sol
 Dimensions: 12 m. x 12 m.
 Dimensions: 12 m. x 12 m.
 A Floor Exercise is composed predominantly of acrobatic elements
@@ -1830,7 +1728,7 @@ i)	 The deduction for aesthetic and execution errors in the saltos
 is per element not for every salto included in the element.
 Code MAG 2017
 38
-la Manna.
+
 4.	Information about Difficulty and elements group:
 a)	Acrobatic elements can be connected but retain their independent values.
 b)	For floor exercise, one element can fulfill only one Element
@@ -1898,18 +1796,10 @@ Code MAG 2017
 40
 Jury E
 0.30
-+
-+
-+
-+
+
 mains
 0.50
-mains
-+
-+
-+
-+
-chute 1.00
+
 salto
 Medium
 0.30
@@ -1930,18 +1820,15 @@ Large
 0.50
 Without
 support
-+
+
 Uncontrolled momentary landings (also in transitions).
-+
+
 Simple steps or transitions to
 arrive to the corners.
-+
-+
+
 Jump to prone landing after
 salto
-+
-+
-Petite
+
 0.10
 0.30
 0.50
@@ -1966,47 +1853,25 @@ floor area.
 0.10
 Media
 0.30
-+
-+
-+
-+
-de manos.
-+
-+
-+
-+
-+
-+
+
 Touching with feet, hands, foot
 and hand or with any other
 part of the body outside of the
 floor area.
-+
+
 Landing directly outside the
 floor area.
-+
+
 0.10
 Media
 0.30
 0.50
-(rodar).
-suelo.
-+
-+
-+
-+
-+
+
 No pass to and/or from each
 corner)
-+
-esquina.
-+
+
 Seniors only)
-+
-+
-Sin apoyo
-+
-coin
+
 0.50
 D Jury
 Jury D
@@ -2014,19 +1879,18 @@ Small
 0.10
 Pause 2 sec. or more before
 element or acrobatic series.
-+
-Faute
+
 E Jury
-Petite
+
 0.10
-Faute
+
 Article 10.3 Specific Deductions for Floor Exercise.
 Elements initiated outside the
 floor area.
 No value
 Code MAG 2017
 41
-A = 0,1
+A = 0,1
 C = 0,3
 B = 0,2
 D = 0,4
@@ -2053,12 +1917,7 @@ handstand (2 s.).
 (2 s.).
 	 Press or lower or swing to Japanese hdst. (2 s.). 	 From split press to Japanese handstand (2 s.).
 Code MAG 2017
-23.
-6.
-12.
-18.
-24.
-42
+
 A = 0,1
 C = 0,3
 B = 0,2
@@ -2068,19 +1927,14 @@ F = 0,6 G = 0,7 H = 0,8
 29.
 30.
 	 ½ or 1/1 turn in handstand or to handstand.	
-½ o 1/1 giro en apoyo inv. o al apoyo invertido. 	 From straddled support lever (2 s.) press hdst. 	 From support lever 2 s. press handstand (2 s.). 	 From Swallow 2 s. press to Japanese hdst. (2 s.).
+ 	 From straddled support lever (2 s.) press hdst. 	 From support lever 2 s. press handstand (2 s.). 	 From Swallow 2 s. press to Japanese hdst. (2 s.).
 	
 (2 s.).
-36.
-38
+
 	 From L-sit, etc., turn over bwd. to stand.
-43.
+
 	 Swallow (2 s.).
-28.
-39.
-40.
-41.
-42.
+
 	 Endo roll to handstand (2 s.).
 phase with straddle.
 47.
@@ -2096,30 +1950,15 @@ E = 0,5
 F = 0,6 G = 0,7 H = 0,8
 	 From stand or rear support, push off 1 foot
 through hdst. or back walkover.
-51.
-52.
-53.
-54.
-56.
-57.
-58.
-59.
-60.
+
 	 Cross or side split (stop required).
-63.
-64.
-65.
-66.
+
 mains (2 s.).
 	
 Any standing scale with 180° straddle, no hand
 hold (2 s.).
-	
-70.
-71.
-72.
+
 	 Forward walkover.
-	Paloma.
 Code MAG 2017
 44
 A = 0,1
@@ -2132,21 +1971,13 @@ F = 0,6 G = 0,7 H = 0,8
 	
 Jump bwd. with pike-stretch or with 1/1 turn to
 front support.
-76.
-77.
-78.
+
 	 Butterfly with 2/1 twist.
-82.
-83.
-84.
-87.
-88.
-89.
-90.
+
 (Endo)
-79.	Papillon.
+
 	 Butterfly.
-	Papillon.
+
 	 Butterfly with 1/1 twist fwd. or bwd.
 (Tong Fei)
 	 Breakdance variations.
