@@ -9,9 +9,9 @@ with open('copenglish.txt') as f:
 
 text_model = markovify.Text(text)
 
-def sentences(repeats=1):
-    for i in range(repeats):
-        print(text_model.make_short_sentence(140))
+def chain():
+    tweet = text_model.make_short_sentence(140)
+    return tweet
 
 def tweet():
     auth = OAuth(
@@ -22,7 +22,7 @@ def tweet():
     )
 
     t = Twitter(auth=auth)
-    t.statuses.update(status=sentences())
+    t.statuses.update(status=chain())
 
 if __name__ == '__main__':
     tweet()
