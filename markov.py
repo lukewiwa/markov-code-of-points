@@ -1,3 +1,4 @@
+import os
 import markovify
 from twitter import *
 
@@ -14,14 +15,14 @@ def sentences(repeats=1):
 
 def tweet():
     auth = OAuth(
-    consumer_key = 'TWITTER_CONSUMER_KEY',
-    consumer_secret = 'TWITTER_CONSUMER_SECRET',
-    token = 'TWITTER_TOKEN',
-    token_secret = 'TWITTER_TOKEN_SECRET',
+    consumer_key = os.environ['TWITTER_CONSUMER_KEY'],
+    consumer_secret = os.environ['TWITTER_CONSUMER_SECRET'],
+    token = os.environ['TWITTER_TOKEN'],
+    token_secret = os.environ['TWITTER_TOKEN_SECRET'],
     )
 
     t = Twitter(auth=auth)
     t.statuses.update(status=sentences())
 
 if __name__ == '__main__':
-    sentences()
+    tweet()
