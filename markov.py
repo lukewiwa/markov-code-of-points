@@ -4,7 +4,7 @@ from twitter import *
 
 
 
-with open('copmanual.txt') as f:
+with open('copCombined.txt') as f:
     text = f.read()
 
 text_model = markovify.Text(text)
