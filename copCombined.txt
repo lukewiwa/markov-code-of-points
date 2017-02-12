@@ -2066,17 +2066,11 @@ floor area.
 
 No value
 
-A = 0,1
 
-C = 0,3
 
-B = 0,2
 
-D = 0,4
 
-E = 0,5
 
-F = 0,6 G = 0,7 H = 0,8
 
 EG I:  Non-acrobatic Elements
 1.From hdst. lower to L-sit or strad. L-sit (2 s.).
@@ -2103,17 +2097,11 @@ handstand (2 s.).
 
 
 
-A = 0,1
 
-C = 0,3
 
-B = 0,2
 
-D = 0,4
 
-E = 0,5
 
-F = 0,6 G = 0,7 H = 0,8
 
 EG I: Non-acrobatic Elements
 
@@ -6802,12 +6790,6 @@ Elements initiated outside the
 floor area.
 No value
 41
-A = 0,1
-C = 0,3
-B = 0,2
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 V-sit (2 s.).
 	 From hdst. lower to L-sit or strad. L-sit (2 s.).
 	 From stand, Swiss press to hdst. (2 s.).
@@ -6827,12 +6809,6 @@ handstand (2 s.).
 (2 s.).
 	 Press or lower or swing to Japanese hdst. (2 s.). 	 From split press to Japanese handstand (2 s.).
 
-A = 0,1
-C = 0,3
-B = 0,2
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 ½ or 1/1 turn in handstand or to handstand.	
  	 From straddled support lever (2 s.) press hdst. 	 From support lever 2 s. press handstand (2 s.). 	 From Swallow 2 s. press to Japanese hdst. (2 s.).
 	
@@ -6846,12 +6822,6 @@ F = 0,6 G = 0,7 H = 0,8
 phase with straddle.
 - May straddle the legs without deduction to reach the handstand position in the final phase of the element.
 43
-A = 0,1
-C = 0,3
-B = 0,2
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 From stand or rear support, push off 1 foot
 through hdst. or back walkover.
 
@@ -6864,12 +6834,6 @@ hold (2 s.).
 
 	 Forward walkover.
 44
-A = 0,1
-C = 0,3
-B = 0,2
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Jump bwd. to front support.
 	
 Jump bwd. with pike-stretch or with 1/1 turn to
@@ -6892,12 +6856,6 @@ Flair or circle to hdst. continue to flair or circle. 	 Flair hopping with 360°
 to flair (2 hops).
 saltos).
 45
-A = 0,1
-C = 0,3
-B = 0,2
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	
 Lower from hdst. to flair or circle.
 	
@@ -6930,12 +6888,6 @@ Russian wendeswing with 720° or 900°.
 Russian wendeswing with 1080° or more.
 	
 46
-A = 0,1
-C = 0,3
-B = 0,2
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	
 Roll bwd. through hdst. with ½ t.
 	
@@ -6948,12 +6900,6 @@ Roll bwd. with hop 1/1 t. through hdst.
 134.	
 139.	
 47
-A = 0,1
-C = 0,3
-B = 0,2
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Neck or head spring w. ½ t. to hdst. or 1/1 t. to
 rear support.
 	
@@ -6975,12 +6921,6 @@ Jump with 1/1 twist to fwd. hdsp.
 Double salto fwd. tucked.
 	 Double salto fwd. piked.
 48
-A = 0,1
-C = 0,3
-B = 0,2
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Aerial walkover fwd.
 26.	
 27.	
@@ -7005,12 +6945,6 @@ Salto fwd. str. with 3/2 t.
 47.	
 48.	
 49
-A = 0,1
-C = 0,3
-B = 0,2
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	
 Salto fwd. t. or p. to front support.
 	 Salto fwd. t., p or str. with 1/1 t. to front support.
@@ -7023,12 +6957,6 @@ Salto fwd. t. or p. to front support.
 	
 	
 50
-A = 0,1
-C = 0,3
-B = 0,2
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Salto backwards tucked or piked.
 	 Salto backwards stretched.
 	 Double salto bwd. tucked.
@@ -7066,12 +6994,6 @@ Salto bwd. str. with 7/2 t.
 	
 24.	
 51
-A = 0,1
-C = 0,3
-B = 0,2
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	
 Salto bwd. str. with 1/1 t.
 	
@@ -7100,12 +7022,6 @@ Double salto straddled with 1/1 t.
 (Lou Yun)
 (Kolyvanov)
 52
-A = 0,1
-C = 0,3
-B = 0,2
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 49.	
 50.	
 51.	
@@ -7782,12 +7698,6 @@ Small
 0.50
 rec.
 63
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Scissor forward.
 l’ATR.
 	 Double Scissor Fwd. with Travel Sideways
@@ -7809,12 +7719,6 @@ one end to the other (3/3).
 	 Swing bwd. w. ¼ t. through hstd. on 1 p., lower
 to sup. w. strad. legs on the other arm.
 64
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Scissor fwd. 1/4 t. to hdst., 1/4 t. and straddle
 down bwd on 1 arm on the other pommel.
 	 Scissor bwd.with hop swd.(also with ½ t.).
@@ -7828,12 +7732,6 @@ bwd on 1 arm on the other pommel.
 lower to flair or circle.
 lower to support w. strad. legs.
 65
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Circle in side support on 1 pommel.
 	 Any circle or flair in side support.
 	 Circles in cross support frontways on end.
@@ -7843,12 +7741,6 @@ extremo.
 	 Circle with support outside pommels or between
 the pommels.
 66
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	
 	
 	 Any side support 1/1 spindle w. legs straddle 	 Any side support 1/1 spindle with hand support to 	 Side support, 1/1 spindle with both pommels
@@ -7874,12 +7766,6 @@ pommels inside max. 2 circles.
 lower to sup. w. straddle legs.
 to circles or flairs.
 67
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Reverse Stöckli or DSA strad. through hdst. and
 lower to sup. w. strad. legs or circle.
 	
@@ -7893,12 +7779,6 @@ to flairs.
 cross to side support.
 side to cross support.
 68
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 75.	
 	
 Reverse Stöckli with 270° t. to 1 pommel.
@@ -7916,12 +7796,6 @@ arcos.
 	 Czechkehre on the leather or pommels.
 87.	
 69
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Russian wendeswing with 180° or 270°.
 	 Russian wendeswing with 360° or 540°.
 	 Russian wendeswing with 720° or 900°.
@@ -7950,12 +7824,6 @@ pommel or between the pommels.
 	
 arcos.
 70
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 EG III: Transports inclus Krolls, Tong Fei, Wu Guoniang, Roth et transport avec pivot. - Travel type elements, including Krolls, Tong Fei, Wu Guonian, Roth and Traveling Spindles - Desplazamientos, incluyendo
 	 Circles with travel fwd. in side support (also with 	 Circles with travel fwd. in side support (3/3).
 	 Circles with travel fwd. in side support (3/3),
@@ -7982,12 +7850,6 @@ to sup. fwd on other end (1-1 to 5-5).
 4-5).
 (Yamawaki)
 71
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 EG III: Transports inclus Krolls, Tong Fei, Wu Guoniang, Roth et transport avec pivot. - Travel type elements, including Krolls, Tong Fei, Wu Guonian, Roth and Traveling Spindles - Desplazamientos, incluyendo
 (1/3 transport).
 	 All travels with ½ spindle in cross support (1/3 	
@@ -8016,12 +7878,6 @@ end (3/3).
 (Magyar)
 (3/3) (1-2-4-5).
 72
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 EG III: Transports inclus Krolls, Tong Fei, Wu Guoniang, Roth et transport avec pivot. - Travel type elements, including Krolls, Tong Fei, Wu Guonian, Roth and Traveling Spindles - Desplazamientos, incluyendo
 	 Fr. cr. sup. on end, tr. fwd. in 2 circles to 1st p., to
 2nd p., with ¼ turn to side sup. on other end (3/3).
@@ -8043,12 +7899,6 @@ st
 Stöckli around 2nd p. to side sup., p. betw. hands.
 (Belenki)
 73
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 EG III: Transports inclus Krolls, Tong Fei, Wu Guoniang, Roth et transport avec pivot. - Travel type elements, including Krolls, Tong Fei, Wu Guonian, Roth and Traveling Spindles - Desplazamientos, incluyendo
 	 From sup. on 1 p., Russian wendeswing fwd.
 to other end without sup. on or btw. the p. (side 	 From sup. on end, Russian wendeswing fwd. to
@@ -8073,12 +7923,6 @@ wendeswing with 360° or 540º over both pomto the other.
 mels.
 (Vammen)
 74
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Chaguinian to wende.
 	 Wende (from circle or flair).
 travel 3/3 with 450° or more turn.
@@ -8324,12 +8168,6 @@ No swing to handstand.
 0.30
 por
 80
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Uprise fwd. to support.
 	 From a hang or support, back toss to hang rw.
 to uprise fwd. to support.
@@ -8342,12 +8180,6 @@ rings.
 (Nakayama)
 (Li Ning 2)
 81
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Tucked double felge bwd. to hang.
 	 Piked double felge bwd. to hang.
 	 From hang, felge upward to support.
@@ -8364,12 +8196,6 @@ handstand.
 	 Backward swing to salto fwd. p. to support.
 (Honma)
 82
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 ment.
 	 Slow inlocate from hang.
 	 Double salto fwd. tucked to hang.
@@ -8383,12 +8209,6 @@ ment.
 	 Uprise bwd. to straddled L-sit (2 s.).
 	 Bwd. swing, salto fwd tuck or piked to support.
 83
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 From support or cross, felge bwd. piked or
 stretched to support.
 	 Back kip or roll bwd str. to handstand (2 s.).
@@ -8398,12 +8218,6 @@ stretched to support.
 	 Uprise bwd. or giant swing to handstand with
 straight arms (2 s.).
 84
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 L-sit (2 s.) or straddled L-sit (2 s.).
 	 V-sit (2 s.).
 	 Press from inverted cross to handstand (2 s.).
@@ -8416,12 +8230,6 @@ cross) (2 s.).
 19.	
 	 V Cross, press to V-sit (2 sec.).
 85
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Press to hdst. with bent body and bent arms (2 s).
 	
 Press to hdst. with str. body a. bent arms or b. 	
@@ -8450,12 +8258,6 @@ mentary front lever to cross or L-cross (2 s.).
 (Pham)
 	 Pull with straight body and arms through moment. front lever to swallow (2 s.).
 86
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Azarian to V Cross (2 s.).
 dorsale horizontal (2 s.).
 	 Vertical pull up with bent arms to hanging scale 	 Vertical pull up with straight arms to hanging 	 Roll bwd. slowly with str. arms and body to cross 	 Azarian a cristo en V (2 s.).
@@ -8481,12 +8283,6 @@ through inverted cross to inverted hang.
 press to swallow (2 s.).
 to Support Scale) (2 s.).
 87
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 From L-cross, press to inverted cross (2 s.).
 (2 s.).
 	 From L-sit, press to inverted cross (2 s.).
@@ -8507,12 +8303,6 @@ hang and felge bwd. slowly to swallow (2 s.).
 hang and felge bwd. slowly to cross (2 s.).
 (Jotchev)
 88
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 Roll bwd. slowly with str. arms and body to
 	
 Roll bwd. slowly with str. arms and body to free 	
@@ -8542,12 +8332,6 @@ From hang vertical pull up with straight arms to
 through cross to inverted cross (2 s.).
 	
 89
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Uprise fwd. to L-sit, (2 s.).
 	 Uprise fwd. to V-sit (2 s.).
 	 Kip to L-sit (2 s.).
@@ -8561,12 +8345,6 @@ en V (2 s.).
 (2 s.).
 	 Bwd. swing, salto fwd p. to cross or L- cross (2 s.).
 90
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Uprise fwd. to cross or L-cross (2 s.).
 angle (2 s.).
 	 Uprise bwd. to cross or L-cross (2 s.).
@@ -8580,12 +8358,6 @@ en V (2 s.).
 	 Felge upward to sup. scale at ring height (2 s.). 	 Domin. ad. a hirondelle inv. sin fase de apoyo (2 s.).
 (Rodrigues)
 91
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Kip to cross, or L-cross (2 s.).
 	 Kip to inverted swallow (2 s.).
 en V (2 s.).
@@ -8596,12 +8368,6 @@ zontal (2 s.).
 	 Uprise bwd. to support scale straddled (2 s.). 	 Uprise bwd. to support scale (2 s.).
 	 Back kip to support scale at ring height (2 s.).
 92
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Back kip to support scale straddled (2 s.).
 tal (2 s.).
 	 Felge bwd. stretched to free sup. scale (2 s.).
@@ -8610,21 +8376,9 @@ tal (2 s.).
 (2 s.).
 	 Uprise bwd. to inverted cross (2 s.).
 93
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	
 	
 94
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Salto fwd. piked or stretched.
 	 Salto fwd. piked or stretched with ½ t.
 	 Salto fwd. piked or stretched with 1/1 or 3/2 t. 	 Salto fwd. piked or stretched with 2/1 t.
@@ -8637,12 +8391,6 @@ F = 0,6 G = 0,7 H = 0,8
 1/1 t.
 1/1 g.
 95
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Salto bwd. piked or stretched.
 	 Salto bwd. stretched with ½ or 1/1 t.
 	 Salto bwd. stretched with 2/1 t. or 3/2 t.
@@ -9848,12 +9596,6 @@ mount.
 0.30
 0.50
 116
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Any handstand on 1 or 2 rails (2 s.).
 barres).
 	 Bent arm swing fwd. to hop ½ t. to sup.
@@ -9870,12 +9612,6 @@ barres).
 	 Diamidov with ¼ or ½ t. to hdst.
 	 Strad. cut bwd. and salto fwd. to up. arm hang. 	 Swing fwd. w. 1/1 t. on 1 arm to hdst.
 117
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	
 ¾ Diamidov & ¾ Healy on the other hand to supp.
 	
@@ -9902,12 +9638,6 @@ Healy type element).
 (Morisue)
 	 Double salto p. to up. arm hang.
 118
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Hdst. with ¼ t. and fall back to sup. with ¼ t.
 	 Hdst. with ¾ t. and fall back to sup. with ¼ t.
 	 3/2 salto bwd. with ½ t. to up. arm hang.
@@ -9929,12 +9659,6 @@ Following a swing element (min. B) to hdst on
 Min.
 B
 119
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	
 	
 Swing bwd. with ½ t. hop to hdst.
@@ -9962,12 +9686,6 @@ with rotated grip, inlocate to support.
 	 5/4 salto fwd. strad. through support to hang or
 directly to hang.
 120
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 97.	
 	
 5/4 salto fwd. t. or p. to upper arm hang.
@@ -9997,22 +9715,10 @@ In center or on end facing out, 1 circle or flair.
 	
 	
 Salto fwd. with 1/1 t. to up. arm hang.
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 Any flair to hdst.
 Any flair with ½ t. to hdst.
 
 122
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Forward uprise to support.
 	 Fwd. uprise and straddle cut bwd to handstand.
 	 Fwd. uprise with ¼ t. to hang on 1 rail.
@@ -10035,12 +9741,6 @@ G
 (Dimitrenko)
 (Li Xiaopeng)
 123
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 26.	
 	 Bwd. uprise to handstand (or w. ½ t).
 	
@@ -10065,12 +9765,6 @@ up.arm hang.
 hang.
 (Yamawaki)
 124
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 51.	
 52.	
 	 Bwd. uprise and 5/4 salto fwd. straddled to up.
@@ -10079,12 +9773,6 @@ arm hang.
 str. arm.
 
 125
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Swing forward, straddle cut backward, and
 regrasp with straight body at horizontal.
 	 Swing forward, straddle cut backward, and regrasp 	 Moy piked with straddle bwd to hdst.
@@ -10103,12 +9791,6 @@ release).
 Healy type element).
 (Wells)
 126
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 pension.
 	 Giant swing bwd. with ½ t. to up. arm hang.
 	 Giant swing bwd. with ½ t. to support.
@@ -10129,12 +9811,6 @@ Giant swing bwd. with ½ t. and str. cut bwd. to
 up. arms.
 (Sosa)
 127
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 
 	 Fr. giant. sw. bwd., dbl. salto t. to up. arm hang. 
 
@@ -10159,12 +9835,6 @@ arm hang.
 (Fokin)
 70.	
 128
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Glide kip through L-sit p. to hdst.
 	 Glide kip one rail through L-sit strad. to hdst. 	 Glide kip through L-sit p.to hdst. and hop with
 3/4 t or more.
@@ -10175,12 +9845,6 @@ on other rail.
 (Li Donghua)
 
 129
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	
 Cast to upper arm hang.
 	
@@ -10233,12 +9897,6 @@ Basket through handstand to Makuts.
 (Yamamuro)
 G
 130
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	
 Basket forward to support.
 	
@@ -10260,12 +9918,6 @@ Straddled shoot to hdst on 1 rail.
 	
 140
 131
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Salto fwd. piked or stretched.
 	 Salto fwd. piked or str. with ½ t.
 	 Salto fwd. piked or str. with 1/1 or 3/2 t.
@@ -10291,12 +9943,6 @@ G
 	 Double salto fwd. tucked with 1/1 t.
 G
 132
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 26.	
 27.	
 31
@@ -10619,12 +10265,6 @@ Layaway on the back swing
 Large
 0.50
 140
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Back uprise to handstand.
 	 Back uprise to hdst. with 1/1 turn also to mixt.
 	 Giant swing fwd. with 1/1 turn in double elgrip.	
@@ -10647,12 +10287,6 @@ Giant swing fwd. with ½ t. thr. hdst.
 Flying giant swing fwd. or with½ turn.
 	
 141
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	
 Giant swing fwd. with one arm in ungr. (360°).
 	
@@ -10678,12 +10312,6 @@ Flying giant swing bwd. with 1/1 t.
 Flying giant swing bwd. with 2/1 t.
 	
 142
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	
 Giant swing bwd. with hop ½ t. to el-grip.
 	
@@ -10709,12 +10337,6 @@ Giant swing rearways fwd. (Russian giant).
 Giant swing rw. bwd. (Czech giant swing).
 	
 143
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Elgrip giant swg. with 1/1 t. thr. hdst. in mx. gr.
 	
 Steineman uprise w. ½ t. to support.
@@ -10732,12 +10354,6 @@ a molino.
 87.	
 88.	
 144
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Markelov stretched with legs together.
 	 Back uprise and straddle over to hang rw.
 	 Back uprise and strad. hecht with ½ t. to hang. 
@@ -10764,12 +10380,6 @@ hang.
 	 Piatti stretched with ½ t. to mix el-grip into back
 uprise to hdst.
 145
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Back uprise and rear vault with ¼ t. to hang.
 		Piatti stretched with 1/1 turn.
 	
@@ -10791,12 +10401,6 @@ Yamawaki ½ t. stretched to mixed grip into back
 	
 uprise to hdst.
 146
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	 Salto fwd, tuck or strad. over the bar, also from el-grip.
 (Gaylord)
 	
@@ -10823,19 +10427,13 @@ susp.
 	 Swing fwd. and salto bwd. w. 3/2 t. to hang.
 (Deff)
 147
-A = 0,1
-B = 0,2
-C = 0,3
-D = 0,4
-E = 0,5
-F = 0,6 G = 0,7 H = 0,8
 	
 	Stalder ½ t. to rear vault with ¼ t. to hang.
 	
 Salto bwd. ½ t.tucked over the bar.
 
 (Jansen)
-78. 	
+
 	 Salto bwd. ½ t.piked over the bar.
 (Gaylord 2)
 	
@@ -10881,7 +10479,7 @@ to handstand.
 
 	 Endo with ½ t. thr. hdst.
 	 Stalder with hop 1/1 t. through hdst.
-prise cub.
+
 	 Free circle bwd. straddle or legs together thr.	 Stalder with hop 3/2 turn through hdst. in mix 	 Stalder with hop 3/2 turn through hdst. in el-grip.
 hdst.
 el-grip.
@@ -10891,14 +10489,12 @@ el-grip.
 
 
 	 Stalder with ½ turn through hdst.
-cub.
+
 	 Stalder with ½ turn through hdst. in el-grip.
 
 	 Stalder with hop through hdst.
 	 Stalder with hop through hdst. in el-grip.
-cubital.
-59. 	
-	
+
 Stoop circle rearward fwd. through hdst.
 (Adler).
 	
