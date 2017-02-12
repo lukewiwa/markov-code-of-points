@@ -22,7 +22,6 @@ case any statement contained herein is in conflict with the Technical Regulation
 Where there is a difference among the languages, the English text
 shall be considered correct.
 
-Code MAG 2017
 
 Koichi Endo JPN
 Tomomasa Makita JPN
@@ -82,7 +81,6 @@ Julio Marcos ESP
 
 ABBREVIATIONS
 
-Code MAG 2017
 
 Koichi Endo JPN
 Tomomasa Makita JPN
@@ -170,7 +168,6 @@ Article 8.1 - Description of exercise presentation
 Article 8.2 - Calculation of E Jury deductions
 Article 8.3 - Instructions for the gymnasts
 
-Code MAG 2017
 
 Section 9 - Technical Directives
 Article 9.1 - Evaluation by the E jury
@@ -215,7 +212,6 @@ Article 15.4 - Table of Elements
 
 A. Additional Explanations and interpretations
 
-Code MAG 2017
 
 PART I
 Regulations Governing Competition Participants
@@ -1732,7 +1728,6 @@ Medium
 Large
 0.50
 
-+
 
 31° - 45°
 
@@ -2513,13 +2508,11 @@ D
 
 R18 or R27 (B)
 
-+
 
 E
 
 R36 or R54 (C)
 
-+
 
 D
 
@@ -2529,7 +2522,6 @@ F
 
 R72 or R90 (D)
 
-+
 
 F
 
@@ -2537,21 +2529,17 @@ G
 
 R108 (E)
 
-+
 
 R18 ou R27 (B)
 
-+
 
 R36 ou R54 (C)
 
-+
 
 D
 
 R72 ou R90 (D)
 
-+
 
 R108 (E)
 
@@ -2752,7 +2740,6 @@ Error
 Non utilization of all 3 parts
 of the horse.
 
-+
 
 Medium
 0.30
@@ -2789,10 +2776,8 @@ elements.
 >45º
 no - recog.
 
-+
 deviation >45
 
-+
 deviation
 90º
 
@@ -4035,7 +4020,6 @@ c)	Unless otherwise indicated in the difficulty tables, elements
 performed from or to unusual or rotated grip positions (supinated or pronated) have the same identification number and
 value as analogous elements performed from or to the usual
 grip position.
-Code MAG 2017
 d)	Elements formed by combined independent elements must
 demonstrate no pause between elements, or they will receive
 their independent values.
@@ -4463,14 +4447,12 @@ Flight
 
 C value
 
-+
 
 C or higher
 
 or vice versa
 D or higher value
 
-+
 
 D or higher value
 
@@ -5005,7 +4987,6 @@ copying are prohibited without prior written approval by FIG. In
 case any statement contained herein is in conflict with the Technical Regulations, the Technical Regulations shall take precedence.
 Where there is a difference among the languages, the English text
 shall be considered correct.
-Code MAG 2017
 Steve Butcher USA
 Yoon Soo Han KOR
 Hardy Fink CAN
@@ -5030,7 +5011,6 @@ Elaboration and layout
 Hardy Fink CAN
 Steve Butcher USA
 ABBREVIATIONS
-Code MAG 2017
 Hardy Fink CAN
 Steve Butcher USA
 ABREVIATURAS
@@ -5091,7 +5071,6 @@ Section 8 - Regulations governing the E Score
 Article 8.1 - Description of exercise presentation
 Article 8.2 - Calculation of E Jury deductions
 Article 8.3 - Instructions for the gymnasts
-Code MAG 2017
 3
 Section 9 - Technical Directives
 Article 9.1 - Evaluation by the E jury
@@ -5121,7 +5100,6 @@ Article 15.4 - Table of Elements
 	
 	
 A. Additional Explanations and interpretations
-Code MAG 2017
 
 PART I
 Regulations Governing Competition Participants
@@ -5163,7 +5141,6 @@ Finals.
 4.	Guide coaches and gymnasts in the composition of competition
 5.	Provide information about the source of other technical information and regulations frequently needed at competitions by
 judges, coaches, and gymnasts.
-Code MAG 2017
 5
 NOTE:
 Apparatus
@@ -5208,7 +5185,6 @@ not used.
 -	 There will be a conspicuous signal from the D1 judge (at official FIG competitions, a green light) 30 seconds before their
 exercise is expected to begin.
 NOTA:
-Code MAG 2017
 6
 prescriptions.
 Article 2.2 Responsibilities of the gymnast
@@ -5254,7 +5230,6 @@ c)	To submit, or have their coach submit, a written request at least
 Jury to raise the Horizontal Bar and/or Rings; or to submit
 such requests in accordance with the Technical Regulations
 that govern that competition.
-Code MAG 2017
 7
 Competition Attire
 a)	They must wear long gymnastics pants and socks on Pommel Horse, Rings, Parallel Bars, and Horizontal Bar. Long
@@ -5290,7 +5265,6 @@ d)	In extreme cases, the gymnast or coach may be expelled
 from the competition hall in addition to suffering the specified
 penalty.
 e)	Violations and the associated penalties are:
-Code MAG 2017
 
 Violation
 Penalty
@@ -5371,7 +5345,6 @@ for team and individual purposes
 (By Superior Jury).
 Performing without signal or green
 light.
-Code MAG 2017
 Final Score = 0 points.
 9
 Team Violations
@@ -5419,7 +5392,6 @@ j)	Inquire to Superior Jury concerning the evaluation of the
 content of the exercise of the gymnast (see Art. 3.4).
 k)	Request to Superior Jury a review of the Time and Line deductions.
 art. 3.4).
-Code MAG 2017
 10
 prescriptions.
 Article 3.2 Responsibilities of the Coaches to:
@@ -5471,7 +5443,6 @@ abusive behaviour (valid for all
 phases of the competition).
 Immediate Red card for coach and
 removal of coach from the competition.*
-Code MAG 2017
 11
 Behaviour of Coach with direct impact on the result/performance of
 the gymnast/team
@@ -5517,7 +5488,6 @@ upheld in accordance with the fundamental principles of Olympism.
 We shall commit ourselves to educating the gymnasts to adhere to
 fair play and drug free sport and to respect all FIG Rules governing
 the World Championships.”
-Code MAG 2017
 12
 Section 4
 Section 4
@@ -5566,7 +5536,6 @@ months.
 ·	 Detailed list of all interventions (score changes before
 and after publication).
 ·	 Technical analyses of the D-judges’ scores.
-Code MAG 2017
 FIG.
 Article 4.2 The MTC Members
 During each phase of the competition, the members of the Men’s
@@ -5610,7 +5579,6 @@ f)	 Adhere to any special organizational or judging related instruction given by
 instructions).
 g)	To check the apparatus used at training, warm-up and competition with the FIG Apparatus Norms.
 g)	Participation in podium training is mandatory for all judges.
-Code MAG 2017
 CTM/FIG).
 14
 h)	Be prepared thoroughly on all apparatus
@@ -5656,7 +5624,6 @@ an E-Panel.
 Committee in accordance with the most current FIG Technical
 Regulations
 -	 E- Judging Panels and supplementary positions will be drawn
-Code MAG 2017
 15
 under the authority of the TC in accordance with the current
 Technical Regulations or Judges’ Rules that govern that competition.
@@ -5702,7 +5669,6 @@ d)	To display the green light or other conspicuous signal to notify the gymnasts
 seconds.
 e)	To ensure that neutral deductions for time, line, behavior faults
 are taken from the Final Score before being flashed.
-Code MAG 2017
 16
 g)	To ensure the following deductions are applied for:
 -	 Failure to present before and after the exercise.
@@ -5744,7 +5710,6 @@ f)	 To ensure the correct penalties for a short exercise are applied.
 and submit the appropriate written record.
 Time judges are required to:
 -	 Time the duration of the exercise (FX).
-Code MAG 2017
 17
 -	 Ensure adherence to the warm-up time on PB.
 -	 On FX give an audible signal to the gymnast at completion of
@@ -5775,7 +5740,6 @@ Operating the green and red lights.
 Correct flashing of the Final Score.
 Time the duration of the fall period.
 Control the start of the exercise after the green light is lit.
-Code MAG 2017
 	
 18
 Article 5.7 Judge’s Oath (TR 7.12)
@@ -5793,7 +5757,6 @@ role and in attendance during the performance, is eligible for new
 element recognition in the Code of Points. A video of the completed
 element must be given to the TC member in attendance for later
 review and evaluation at the following MTC meeting.
-Code MAG 2017
 19
 PART II
 Evaluation of exercises
@@ -5860,7 +5823,6 @@ the 10 counting elements (8 for juniors).
 -	 The highest and the lowest sums of total deductions applied
 in tenths of a point for execution, aesthetic, technical and
 compositional errors are eliminated. The average remaining
-Code MAG 2017
 20
 sums is subtracted from the 10 points in order to determine
 the Final “E” Score.
@@ -5914,7 +5876,6 @@ Values	 A	 B	 C	D	 E	 F	 G	H
 parts					
 Value	 0.10	0.20	0.30	0.40	 0.50	 0.60	0.70	0.80
 					
-Code MAG 2017
 21
 2.	To the extent possible, only single elements are included in the
 Difficulty Tables. Each element is given a unique difficulty value
@@ -5926,7 +5887,6 @@ at other international, national, and local competitions.
 5.	Elements that no longer appear in the Code are usually not permitted or fall below the value of an A.
 6.	Elements in same box with different values may be performed in
 the same exercise with both elements contributing to the “D” Score.
-12.
 IV.
 Article 7.2 Element Group and Dismount Requirements
 1.	With this evaluation category, the judge evaluates those required
@@ -5959,7 +5919,6 @@ of the element and the Element Group.
 4.	An element (or element with the same Code Identification Number)
 may be repeated but such repeated element may not contribute
 towards the “D” score. See additional regulations restricting repetition for Pommel Horse and Rings in Section 11 and 12.
-Code MAG 2017
 22
 7.	Regarding Dismount element group requirements, the following
 rule will be applied:
@@ -6007,7 +5966,6 @@ e)	 If the element is so altered in performance that it can no longer
 lay any claim to its identification number or value (see also
 Appendix A.3.1), for example:
 i.	 A strength element performed almost entirely with swing.
-Code MAG 2017
 23
 ii.	 A swing element performed almost entirely with strength.
 iii.	A stretched position element performed with a distinct
@@ -6050,7 +6008,6 @@ sense and to decide in the interests of the sport of gymnastics. In
 cases of doubt, the benefit of that doubt must be given to the gymnast.
 7.	Elements performed so poorly that they are not recognized by the
 D-jury will normally be severely deducted by the E-jury as well.
-Code MAG 2017
 24
 8.	The elements with the highest difficulty values will be counted first
 in cases of Special Repetition.
@@ -6094,7 +6051,6 @@ Straddled strength hold or other
 prohibited elements
 Non-recognition of the element and
 No recognition of the element
-Code MAG 2017
 25
 Section 8
 Section 8
@@ -6142,7 +6098,6 @@ well as its compliance with the composition (exercise construction
 expectations) for that apparatus. In each case the E -Jury is to
 demand that elements be performed with perfection and to perfect
 end positions (see also Appendix A.2).
-Code MAG 2017
 26
 2.	The gymnast is expected to include in his exercise only elements
 that he can perform with complete safety and with a high degree of
@@ -6183,7 +6138,6 @@ judges. The amount of the deduction for small, medium, or large
 errors is determined by the degree of deviation from the correct
 performance. The same deduction is applied each time for the
 same severity of bending, whether it be the arms, legs, or the body.
-Code MAG 2017
 27		
 0,1 p.
 0,3 p.
@@ -6235,7 +6189,6 @@ incurred for the element (height, landing extension, insufficient twist) still a
 iii.	 Any assistance by a spotter that contributes to the completion of an element.
 4.	On all apparatus at the end of the exercise, if a gymnast does not
 perform a dismount, but lands intentionally on the feet, no deduction for a fall will be considered.
-Code MAG 2017
 28
 Petite faute:	
 	
@@ -6259,7 +6212,6 @@ Small Error:
 of the technical error and the corresponding technical deduction:
 	 up to 15°	
 		Examples:
-Code MAG 2017
 		 Ejemplos:
 29
 Petite faute		
@@ -6301,7 +6253,6 @@ for the greater portion of the element.
 the correct position will be penalized as follows:
 up to 15º	
 Large error and non-recognition (D jury).
-Code MAG 2017
 30
 Note: Deviations in end positions for swinging elements of 45°
 and greater (or for twisting elements, of 90° and greater) will
@@ -6335,7 +6286,6 @@ feet. This is done by raising the heels off the mat and joining them
 together without lifting the front of the feet. The arms must also be
 in complete control with no unnecessary swings.
 17. Additional technical deductions are listed in Article 9.4 and specifically for each apparatus in the appropriate Chapter.
-Code MAG 2017
 31
 Action (Without steps, hops, or arm
 swings)
@@ -6384,7 +6334,6 @@ separated legs are listed in the Difficulty Tables.
 b)	Repetition of elements
 i.	 Repeating of elements is permitted but they cannot receive credit for difficulty or connection points. However,
 they are evaluated normally by the E-jury.
-Code MAG 2017
 32
 c)	Layaways, empty and intermediate swings (medium or large
 error = 0,3 or 0,5 by the E-jury):
@@ -6425,14 +6374,12 @@ Exercise by the E-jury when the corresponding error is made. See
 Sections 10 to 15 for additional errors and deductions specific to
 each apparatus.
 aparato.
-Code MAG 2017
 33
 Fautes
 Petite
 0.10
 0.30
 0.50
-+
 Non-distinct positions (tuck,
 pike, straight).
 
@@ -6477,15 +6424,9 @@ the "D” Jury
 0.50
 
 1.0
-+
-+
-+
-+
-+
 Media
 0.30
 1.0
-Code MAG 2017
 
 Fall during any landing
 without feet contacting mat
@@ -6538,10 +6479,6 @@ Error
 1,0
 
 le jury D
-+
-+
-+
-+
 Deviations in swings to or
 through handstand or in
 Angular deviations from
@@ -6555,7 +6492,6 @@ Medium
 0.30
 Large
 0.50
-+
 >45° and nonrecognition
 up to 15°
 recognition
@@ -6596,7 +6532,6 @@ Lack of extension in preparation for landing.
 
 Other technical errors.
 
-Code MAG 2017
 
 1.0 and non –
 recognition by
@@ -6631,7 +6566,6 @@ Apparatus
 
 - Horizontal Bar
 
-Code MAG 2017
 36
 Dimensions: 12 m. x 12 m.
 Dimensions: 12 m. x 12 m.
@@ -6671,7 +6605,6 @@ The D1 judge will take the appropriate deduction from the
 final score.
 iii.	If the gymnast has stepped outside of the floor area, steps
 required to return back into the area are not deducted.
-Code MAG 2017
 37
 b)	The duration of the Floor Exercise is a maximum of 70 seconds
 which will be verified by a timer. There is no minimum time.
@@ -6714,7 +6647,6 @@ and Arabian elements.
 must be inside the 10 counting elements.
 i)	 The deduction for aesthetic and execution errors in the saltos
 is per element not for every salto included in the element.
-Code MAG 2017
 38
 
 4.	Information about Difficulty and elements group:
@@ -6759,7 +6691,6 @@ require a stop position in both strength parts to receive the
 listed value, a lower value WILL be awarded if a stop occurs
 for only one of the strength parts. Example: Manna (1 s.) and
 press handstand (no stop)= C value for the Manna.
-Code MAG 2017
 39
 g)	All circles/flairs begin and end in front support.
 7.	Special repetitions:
@@ -6780,7 +6711,6 @@ and back to flair) for an increase in value.
 value. The MTC has applied a principle where only acrobatic
 elements can be awarded more than a D value.
 i)	 All Japanese handstands require closing of the legs.
-Code MAG 2017
 40
 Jury E
 0.30
@@ -6793,12 +6723,8 @@ Medium
 0.30
 Insufficient height in acrobatic
 elements.
-+
-+
 Lack of flexibility during static
 elements.
-+
-+
 Error
 Roll-out elements without hand
 support.
@@ -6837,7 +6763,6 @@ Element not recognized by D-jury
 Landing or touching with one
 foot or one hand outside the
 floor area.
-+
 0.10
 Media
 0.30
@@ -6876,7 +6801,6 @@ Article 10.3 Specific Deductions for Floor Exercise.
 Elements initiated outside the
 floor area.
 No value
-Code MAG 2017
 41
 A = 0,1
 C = 0,3
@@ -6889,7 +6813,6 @@ F = 0,6 G = 0,7 H = 0,8
 	 From stand, Swiss press to hdst. (2 s.).
 	 V-sit with legs horiz. (2 s.).
 (Manna)
-5.
 	 Piked body, str. arm or str. body, bent arm press 	 V-sit (2 s) and press to hdst. (2 s.) also with strad. 	 Manna (2 s.) and press to hdst. (2 s.) also with
 to hdst. with legs together (2 s.).
 legs.
@@ -6898,13 +6821,11 @@ strad. legs.
 	 Swiss press from split, L-sit, strad. L-sit or front
 sup. (2 s.).
 	 Handstand (2 s.).
-4.
 	 From Manna (2 s.), turn over (dislocation) to
 handstand (2 s.).
 (2 s.).
 (2 s.).
 	 Press or lower or swing to Japanese hdst. (2 s.). 	 From split press to Japanese handstand (2 s.).
-Code MAG 2017
 
 A = 0,1
 C = 0,3
@@ -6912,8 +6833,6 @@ B = 0,2
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-29.
-30.
 	 ½ or 1/1 turn in handstand or to handstand.	
  	 From straddled support lever (2 s.) press hdst. 	 From support lever 2 s. press handstand (2 s.). 	 From Swallow 2 s. press to Japanese hdst. (2 s.).
 	
@@ -6925,10 +6844,7 @@ F = 0,6 G = 0,7 H = 0,8
 
 	 Endo roll to handstand (2 s.).
 phase with straddle.
-47.
-48.
 - May straddle the legs without deduction to reach the handstand position in the final phase of the element.
-Code MAG 2017
 43
 A = 0,1
 C = 0,3
@@ -6947,7 +6863,6 @@ Any standing scale with 180° straddle, no hand
 hold (2 s.).
 
 	 Forward walkover.
-Code MAG 2017
 44
 A = 0,1
 C = 0,3
@@ -6969,7 +6884,6 @@ front support.
 	 Butterfly with 1/1 twist fwd. or bwd.
 (Tong Fei)
 	 Breakdance variations.
-86.
 	 2 circles or flairs.
 	
 Circles or flair to handstand.
@@ -6977,8 +6891,6 @@ Circles or flair to handstand.
 Flair or circle to hdst. continue to flair or circle. 	 Flair hopping with 360° t. bwd. thr. hdst and back
 to flair (2 hops).
 saltos).
-Code MAG 2017
-96.
 45
 A = 0,1
 C = 0,3
@@ -6986,13 +6898,9 @@ B = 0,2
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-97.
 	
 Lower from hdst. to flair or circle.
 	
-100.
-101.
-102.
 	
 Flair with ½ spindle.
 	
@@ -7003,9 +6911,7 @@ Flair with 1/1 spindle (in 2 circles).
 handstand.
 	
 	
-107.
 108
-109.
 renv.
 	
 Flair with ½ spindle to handstand.
@@ -7020,14 +6926,9 @@ Russian wendeswing with 360° or 540°.
 	
 Russian wendeswing with 720° or 900°.
 	
-118.
 	
 Russian wendeswing with 1080° or more.
 	
-119.
-114.
-120.
-Code MAG 2017
 46
 A = 0,1
 C = 0,3
@@ -7041,28 +6942,11 @@ Roll bwd. through hdst. with ½ t.
 	
 Roll bwd. with hop 1/1 t. through hdst.
 	
-124.
-125.
-126.
-127.
 128.	
-129.
-130.
-131.
 132
 133.	
 134.	
-135.
-136.
-137.
-138.
 139.	
-140.
-141.
-142.
-143.
-144.
-Code MAG 2017
 47
 A = 0,1
 C = 0,3
@@ -7072,17 +6956,9 @@ E = 0,5
 F = 0,6 G = 0,7 H = 0,8
 	 Neck or head spring w. ½ t. to hdst. or 1/1 t. to
 rear support.
-3.
-4.
-5.
-6.
-8.
-9.
 	
 Handspring salto fwd. tuck (Marinich style).
 	
-11.
-12.
 	 Forward handspring or flyspring.
 (Morandi)
 	 Dive roll.
@@ -7091,18 +6967,13 @@ Handspring salto fwd. tuck (Marinich style).
 Jump with 1/1 twist to fwd. hdsp.
 	
 15. 	
-16.
 	 Salto fwd. tucked or piked.
 20.	Salto avant tendu.
 	 Salto fwd. stretched.
 	Salto fwd. str. to front support.
 	
 Double salto fwd. tucked.
-Code MAG 2017
-17.
 	 Double salto fwd. piked.
-18.
-24.
 48
 A = 0,1
 C = 0,3
@@ -7118,24 +6989,19 @@ F = 0,6 G = 0,7 H = 0,8
 	 Double salto fwd. piked with ½ t.
 	 Salto tucked and piked ½ t.
 	 Salto tucked with 1/1 t.
-33.
 34.	
-35.
 36.	
-37.
 	 Salto fwd. str. with ½ t.
 	 Salto fwd. str. with 1/1 t.
 	 Salto fwd. str. with 5/2 t.
 	 Salto fwd. str. with 3/1 t.
 	 Salto fwd. str. with 2/1 t.
 (Shirai 2)
-43.
 	 Salto tucked 3/2 t.
 	
 Salto fwd. str. with 3/2 t.
 	
 46.	
-Code MAG 2017
 47.	
 48.	
 49
@@ -7145,35 +7011,17 @@ B = 0,2
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-49.
 	
 Salto fwd. t. or p. to front support.
 	 Salto fwd. t., p or str. with 1/1 t. to front support.
 	
-53.
 	 Double salto fwd. tucked with 1/1 turn.
-55.
 56.	
 59.	
-60.
-57.
 	 Jump fwd. with ½ t. to dbl. salto bwd. t. or p.
 (Deferr)
-61.
-62.
-63.
-64.
-65.
-66.
-67.
-68.
 	
-69.
 	
-70.
-71.
-72.
-Code MAG 2017
 50
 A = 0,1
 C = 0,3
@@ -7204,7 +7052,6 @@ Flic flac.
 Tempo.
 	 Double salto bwd. piked.
 16.	
-17.
 	 Triple salto bwd. tucked.
 (Liukin)
 H
@@ -7214,7 +7061,6 @@ Salto backwards tucked w. 3/2 t. .
 	
 	 Salto bwd. str. with 3/2 t.
 	 Salto bwd. str. with 5/2 t.
-Code MAG 2017
 	
 Salto bwd. str. with 7/2 t.
 	
@@ -7226,7 +7072,6 @@ B = 0,2
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-25.
 	
 Salto bwd. str. with 1/1 t.
 	
@@ -7245,20 +7090,14 @@ Salto bwd. str. with 3/1 t.
 35.	
 36.	
 	 Jump bwd. with ½ t. to roll fwd.
-38.
-39.
-40.
-41.
 42.	
 	 Jump bwd. with ½ t. to handspring forward.
 	 Jump bwd. with ½ t. to salto fwd. t. or p. to f. sup.
-46.
 	
 Double salto straddled with 1/1 t.
 	
 	 Salto bwd. str. with 2/1 t and salto bwd piked.
 (Lou Yun)
-Code MAG 2017
 (Kolyvanov)
 52
 A = 0,1
@@ -7278,28 +7117,22 @@ Jump bwd. to dbl. salto fwd. str. with 1/1 t.
 Tamayo
 55.	
 55.	
-56.
 57.	
 	
 Double salto bwd. str. with 2/1 t.
 	 Double salto bwd. stretched with 1/1 t. or arabian 	
 Jump bwd. to dbl. salto fwd. str. with ½ t.
-60.
 61.	
-62.
 63.	
 64.	
 	 Double salto bwd. str. with 5/2 t.
 G
-66.
 67.	
 68.	
 69.	
-70.
 	 Double salto bwd. str. with 3/1 t.
 (Shirai 3)
 H
-Code MAG 2017
 53
 Section 11: Pommel Horse
 Height: 105 cm from top of mat, 115 cm from the floor.
@@ -7336,7 +7169,6 @@ d)	Wendeswings must be performed with legs together. Straddled
 wendeswings are considered atypical and are deducted appropriately.
 e)	During scissors and single leg swings, the gymnast must
 demonstrate a significant elevation of his hips and a large
-Code MAG 2017
 54
 coller.
 separation of the legs.
@@ -7378,7 +7210,6 @@ or fall) + other execution errors (E jury).
 on the leather = no value (D jury) and -0.5 or -1.0 (dependent
 on continuance of exercise or fall) + other execution errors (E
 jury).
-Code MAG 2017
 E).
 55
 l) All dismounts other than handstand dismounts must be executed with the body at a minimum angle of 30º above the
@@ -7425,7 +7256,6 @@ action or the cross support position is either interrupted by a circle or some o
 in some other way.
 vi.	 For difficulty recognition purposes, travelling elements
 can be considered finished as soon as the travel is
-Code MAG 2017
 56
 facial.
 b)	Cercles
@@ -7469,7 +7299,6 @@ b.1)	Unless otherwise indicated, all circle elements begin and
 end in front support.
 b.2)	Unless otherwise indicated, the value and identification
 numbers of elements performed in circle or flair are identical. Such elements are illustrated at random in either the
-Code MAG 2017
 III.70, Belenki).
 b)	Molinos
 57
@@ -7522,7 +7351,6 @@ F
 D
 E
 F
-Code MAG 2017
 “B”
 “C”
 “D”
@@ -7631,7 +7459,6 @@ elements (flops) can only be of D or E value (i.e. 3
 or 4 elements). As an exception a D flop performed
 in flair = E, and an E flop performed in flair = F. Only
 one such flop sequence may be used in an exercise
-Code MAG 2017
 59
 Russe
 1 flop
@@ -7652,46 +7479,34 @@ sequences may be used during an exercise.
 Russian
 D
 R18 or R27 (B)
-+
 E
 R36 or R54 (C)
-+
 D
 E
 F
 R72 or R90 (D)
-+
 F
 G
 R108 (E)
-+
-+
-+
 D
-+
 R108 (E)
-+
 pointage :
 1 flop
 	
 2 flops
 Rusas
 D
-+
 1 flop
 2 flops
 E
-+
 D
 E
 F
-+
 E
 F
 F
 G
 R108 (E)
-+
 F
 G
 D
@@ -7716,7 +7531,6 @@ of Points:
 •	 Any cross support 1/1 spindle within max. 2 circles.
 (also with 1/3, ½ or 2/3 travel) (Magyar)- Element II.34.
 	 Both may be performed in the same exercise.
-Code MAG 2017
 60
 	 Exemple 1
 Jury D
@@ -7803,7 +7617,6 @@ Handstand
 E value (0.5)
 and +0.5
 EG IV
-Code MAG 2017
 -0.5 (lowering
 legs) and
 any aesthetic
@@ -7887,7 +7700,6 @@ in an exercise from circles, flairs, or scissors (not including the
 dismount).
 5.	For a further list of regulations governing non-recognition of elements and other aspects of the “D score”, see Section 7 and the
 summary of deductions in Article 7.6.
-Code MAG 2017
 62
 Jury D
 Faute
@@ -7900,7 +7712,6 @@ D Jury
 Error
 Non utilization of all 3 parts
 of the horse.
-+
 Medium
 0.30
 Large
@@ -7908,105 +7719,43 @@ Large
 Petite
 0.10
 0.30
-+
-+
-+
-+
-+
 Handstand with visible
 strength or bent arms.
-+
-+
-+
 Pausing or stopping in
 handstand.
 hanches
-+
-+
-+
-+
-+
-+
 pas
 reconnu.
-+
-+
 Landing oblique or not facing out from the long axis
 of horse.
-+
 Non handstand dismounts,
 over shoulder horizontal
 line.
 (pieds).
-+
-+
-+
-+
 0.50
 Lack of amplitude in scissors and single leg swings.
 Hip Breaks with circles.
-+
 pas
 reconnu.
-+
-+
 Medium
 0.30
 0.50
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
 Media
 0.30
-+
-+
-+
-+
-+
-+
-+
-+
 molinos.
-+
-+
-+
-+
-+
-+
-+
-+
 elements.
-+
-+
-+
-+
 deviation >45
-+
 deviation
 caballo.
-+
 Scissor to handstand with
-+
-+
 Scissors to handstand
 without closing the legs.
-+
-+
 Lowering of legs on
 elements to a handstand
 (from original position)
 Media
 0.30
 0.10
-+
 Unsteadiness in the handstand dismount, turning
 problems.
 reconnu.
@@ -8023,30 +7772,14 @@ Small
 Extra ½ swing on mount
 without a leg changing
 sides.
-+
 Error
 caballo.
-+
 E Jury
 Jury E
 Faute
 Small
 0.10
-+
-+
-+
-Code MAG 2017
-+
-+
-+
-+
-+
-+
 0.50
-+
-+
-+
-+
 rec.
 63
 A = 0,1
@@ -8056,33 +7789,25 @@ D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
 	 Scissor forward.
-2.
 l’ATR.
 	 Double Scissor Fwd. with Travel Sideways
 through Handstand.
 	 Scissor fwd. w. ¼ t. through hstd. on 1 p., lower
 to sup. w. strad. legs on the other arm.
-6.
 (Li Ning)
 	 Scissor forward with ½ t.
 	 Scissor forward with hop swd. (also with 1/2 t.).
 	 Tijera ad. con salto lateral (también con 1/2 g.). 	 Scissor fwd. with hop swd. from one end to the
 other (3/3).
-11.
-12.
 	 Scissor backward.
 transport lateral.
 	 Double scissor fwd. (¼ t. fwd. a. ¼ t. bwd.) with 	 Double scissor forward with hop sideways from
 one end to the other (3/3).
-18.
 (Mikulak)
 	 Scissor backward with ½ turn.
-20.
 21.	
 	 Swing bwd. w. ¼ t. through hstd. on 1 p., lower
 to sup. w. strad. legs on the other arm.
-Code MAG 2017
-24.
 64
 A = 0,1
 B = 0,2
@@ -8090,30 +7815,18 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-29.
-30.
 	 Scissor fwd. 1/4 t. to hdst., 1/4 t. and straddle
 down bwd on 1 arm on the other pommel.
-36.
-25.
 	 Scissor bwd.with hop swd.(also with ½ t.).
 	 Scissor bwd. with hop swd. from one end to the
 other (1-2 to 4-5).
 (1-2 a 4-5).
-31.
-33.
-37.
 38.	
 39.	
 bwd on 1 arm on the other pommel.
-43.
 	 Leg cut or undercut bwd. through hdst. and 	 Leg cut or undercut bwd. through hdst. and
 lower to flair or circle.
 lower to support w. strad. legs.
-Code MAG 2017
-47.
-42.
-48.
 65
 A = 0,1
 B = 0,2
@@ -8123,26 +7836,12 @@ E = 0,5
 F = 0,6 G = 0,7 H = 0,8
 	 Circle in side support on 1 pommel.
 	 Any circle or flair in side support.
-4.
-5.
-6.
-10.
-11.
-12.
 	 Circles in cross support frontways on end.
-16.
-17.
-18.
 	 Circles in cross support rearways on end.
 	 Circles in cross support between the pommels.
 extremo.
-22.
-23.
-24.
-7.
 	 Circle with support outside pommels or between
 the pommels.
-Code MAG 2017
 66
 A = 0,1
 B = 0,2
@@ -8152,7 +7851,6 @@ E = 0,5
 F = 0,6 G = 0,7 H = 0,8
 	
 	
-27.
 	 Any side support 1/1 spindle w. legs straddle 	 Any side support 1/1 spindle with hand support to 	 Side support, 1/1 spindle with both pommels
 inside max. 2 circles.
 the other side and return (max. 2 flairs or circles).
@@ -8166,7 +7864,6 @@ circles. (also with ⅓, ½ or 2/3 travel).
 pommels max. 2 circles. (also with ⅓ travel).
 (Magyar)
 37.	
-43.
 	 Flair or circle through hdst. and lower to sup. w. 	 Flair or circle through hdst. (with or without ½
 strad. legs.
 t.) and lower to flair or circle.
@@ -8176,8 +7873,6 @@ pommels inside max. 2 circles.
 	 Flair with hop travel bwd. through hdst. and 	 Flair with hop travel bwd. through hdst. and lower
 lower to sup. w. straddle legs.
 to circles or flairs.
-Code MAG 2017
-48.
 67
 A = 0,1
 B = 0,2
@@ -8185,31 +7880,18 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-49.
 	 Reverse Stöckli or DSA strad. through hdst. and
 lower to sup. w. strad. legs or circle.
-53.
 	
 through hdst., 3/3 travel (fwd.- bwd), 360º turn
 to flairs.
 	
-55.
-57.
-58.
-59.
-60.
 	 Pase dorsal adelante con ½ g. (doble dorsal). 	 Kehrswing bwd. hop with ½ t. on the pommels.
-64.
 	 Kehr with 1/1 turn on 1 pommel.
-66.
 (Sohn)
-67.
 	 Kehr with 270º t. on 1 p. (Sohn technique) from 	 Kehr with 270º t. on 1 p. (Sohn technique) from
 cross to side support.
 side to cross support.
-Code MAG 2017
-71.
-72.
 68
 A = 0,1
 B = 0,2
@@ -8217,34 +7899,22 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-73.
 75.	
-76.
-77.
-78.
 	
 Reverse Stöckli with 270° t. to 1 pommel.
 	
 	 Wendeswing fwd. w. ½ t. to sup. fw. on the end, 	 Stöckli invertida, 180º o 270º de giro en un
 from side support using 1 or 2 pommels.
 molino.
-82.
 	
 Reverse Stöckli with 360° t. on 1 pommel.
 	
-84.
-85.
 	 Double Swiss.
 	
 	
 arcos.
-90.
 	 Czechkehre on the leather or pommels.
-94.
-96.
 87.	
-Code MAG 2017
-95.
 69
 A = 0,1
 B = 0,2
@@ -8258,8 +7928,6 @@ F = 0,6 G = 0,7 H = 0,8
 	
 Russian wendeswing with 1080° or more.
 	
-101.
-102.
 	
 On the leather , Russian wendeswing with 360° 	
 On the leather, Russian wendeswing with 720° 	
@@ -8270,8 +7938,6 @@ On the leather, Russian wendeswing with 180°,
 or 270° also with travel.
 	
 	
-108.
-109.
 	
 Russian wendeswing with 180° or 270° on 1 	
 Russian wendeswing with 360° or 540° on 1 	
@@ -8283,13 +7949,6 @@ mel or between the pommels.
 pommel or between the pommels.
 	
 arcos.
-115.
-116.
-117.
-118.
-Code MAG 2017
-119.
-120.
 70
 A = 0,1
 B = 0,2
@@ -8304,12 +7963,9 @@ EG III: Transports inclus Krolls, Tong Fei, Wu Guoniang, Roth et transport avec 
 hands between pommels.
 lateral (3/3).
 p. to sup. on other end (3/3) in 1 circle.
-6.
-7.
 	 Circles with hop travel fwd. in side support.
 	 Circles with hop tr. fwd. 2x in side support (3/3).
 over both p. to sup. frontways on other end.
-12.
 	 Circles with travel bwd. in side support.
 	 Circles with travel bwd. in side support (3/3).
 	 Circles with travel bwd. in side support (3/3),
@@ -8318,8 +7974,6 @@ hands between pommels.
 lateral.
 lateral (3/3).
 to side sup. on the other end (3/3) in 2 circles w.
-18.
-19.
 	 Circles with travel bwd. with hop 2x.
 	 Circles with travel bwd. with hop.
 	 From side support on one end, travel hop over 	 From side sup. beside the p., travel hop o. 2 p.
@@ -8327,7 +7981,6 @@ both p. to sup. frways on other end (1-2 to 4-5).
 to sup. fwd on other end (1-1 to 5-5).
 4-5).
 (Yamawaki)
-Code MAG 2017
 71
 A = 0,1
 B = 0,2
@@ -8336,7 +7989,6 @@ D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
 EG III: Transports inclus Krolls, Tong Fei, Wu Guoniang, Roth et transport avec pivot. - Travel type elements, including Krolls, Tong Fei, Wu Guonian, Roth and Traveling Spindles - Desplazamientos, incluyendo
-25.
 (1/3 transport).
 	 All travels with ½ spindle in cross support (1/3 	
 All travels with ½ spindle in cross support (½
@@ -8344,18 +7996,14 @@ travel).
 or 2/3 travel).
 	 From an end side travel with 2x ½ spindle to
 other end.
-31.
 	 All travels with ½ spindle in side support.
 	 Travel fwd. or bwd. with ¼ spindle to side support. 	 Todo, desplazamiento con ½ pívot en apoyo 	 Cross travel fwd. 3/3 with ½ Spindle from one 	 Travel 3/3 over both pommels with ½ Spindle.
 lateral.
 pommel over the other pommel.
 (Nin Reyes)
-37.
-38.
 39.	
 40.	
 (Nin Reyes 2)
-42.
 	 3/3 cross support travel fwd. with hop.
 (Driggs)
 43.	
@@ -8367,7 +8015,6 @@ end (3/3).
 (3/3).
 (Magyar)
 (3/3) (1-2-4-5).
-Code MAG 2017
 72
 A = 0,1
 B = 0,2
@@ -8376,12 +8023,8 @@ D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
 EG III: Transports inclus Krolls, Tong Fei, Wu Guoniang, Roth et transport avec pivot. - Travel type elements, including Krolls, Tong Fei, Wu Guonian, Roth and Traveling Spindles - Desplazamientos, incluyendo
-49.
-50.
 	 Fr. cr. sup. on end, tr. fwd. in 2 circles to 1st p., to
 2nd p., with ¼ turn to side sup. on other end (3/3).
-53.
-54.
 2/3).
 chaque arc. et sur l’autre extr. (3/3) (5-4-2-1). 	 Any other travel bwd. in cross support to other
 	 Travel bwd. in cross support (½ or 2/3).
@@ -8395,18 +8038,10 @@ or pommel to another (⅓).
 o 2/3).
 	
 (5-4-2-1).
-61.
-62.
 st
 	 From support on end, kehr fwd. around 1 p., rev.
 Stöckli around 2nd p. to side sup., p. betw. hands.
-66.
-67.
-68.
-69.
 (Belenki)
-Code MAG 2017
-72.
 73
 A = 0,1
 B = 0,2
@@ -8415,8 +8050,6 @@ D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
 EG III: Transports inclus Krolls, Tong Fei, Wu Guoniang, Roth et transport avec pivot. - Travel type elements, including Krolls, Tong Fei, Wu Guonian, Roth and Traveling Spindles - Desplazamientos, incluyendo
-73.
-74.
 	 From sup. on 1 p., Russian wendeswing fwd.
 to other end without sup. on or btw. the p. (side 	 From sup. on end, Russian wendeswing fwd. to
 to side support, side to cross support, cross to
@@ -8424,8 +8057,6 @@ other end without sup. on or btw. the p. (side to
 side support).
 side support, side to cross, cross to side, cross
 to cross) with full circle after.
-79.
-80.
 	
 Any Russian wend. with 360° t. and 3/3 travel.
 	 Any 3/3 travel in Russian type wendeswing with
@@ -8434,17 +8065,13 @@ sian wendeswing 360º with travel to the other
 end in side support.
 (Roth)
 (Wu Guonian)
-85.
-86.
 87.	
-78.
 (Tong Fei)
 	
 Reverse Stöckli from cross support on one end 	 On the leather, from cross support, Russian
 wendeswing with 360° or 540º over both pomto the other.
 mels.
 (Vammen)
-Code MAG 2017
 74
 A = 0,1
 B = 0,2
@@ -8454,25 +8081,18 @@ E = 0,5
 F = 0,6 G = 0,7 H = 0,8
 	 Chaguinian to wende.
 	 Wende (from circle or flair).
-3.
 travel 3/3 with 450° or more turn.
 (Kolyvanov)
-6.
 7.	
 	 On the end, Russian wendeswing with 360° or 540°. 	 On the end, Russian wend. with 720° or 900°. 	 On the end, Russian wendeswing with 1080º or
 more.
-12.
 13.	
 	 DSA with hop bwd. through hdst. on other end.
 fw. followed by Schwabenflank a. wende off.
 through hdst.
 inv.
-18.
-19.
 	 Circle or flair through hdst. (also with ¾ t. with 	 Circle or flair with hop travel bwd. thr. hdst.
 or without travel).
-24.
-Code MAG 2017
 23.	
 75
 Section 12: Rings
@@ -8512,7 +8132,6 @@ to a strength hold element whenever the nature of the swing
 d)	During all swing to strength hold elements, the shoulders
 may not rise above the level of the final hold position. Any
 deviation will result in the appropriate deductions by the E-
-Code MAG 2017
 76
 (2 s.).
 IV.	Sorties.
@@ -8562,7 +8181,6 @@ not more than 3 elements from groups II and/or III can be presented
 in direct succession. The 4th and subsequent Elements from Group
 II and/or III of the same sequence will be considered as repetition,
 and not recognized by the D jury. However if the gymnast decides
-Code MAG 2017
 77
 to execute more elements from Element Groups II and/or III, in
 order to be recognized by the “D” Jury, he must perform at least a
@@ -8608,7 +8226,6 @@ intenta.
 h)	An exercise must start in a hang position with arms vertical
 and straight. The gymnast may NOT bend their arms in moving to the first position unless specifically needed for element
 completion. Example: Cast up and underswing backward may
-Code MAG 2017
 78
 be started with bent arms any time during an exercise.
 i)	 During an exercise, a gymnast may only bend their arms during a transition between elements when necessary to properly
@@ -8629,7 +8246,6 @@ m) One Swing to handstand element (2 s. hold) is required in the
 exercise and must be inside 10 counting elements.
 5.	For a further list of regulations governing non-recognition of elements and other aspects of the “D score”, see Section 7 and the
 summary of deductions in Article 7.6.
-Code MAG 2017
 79
 Article 12.3 Specific Deductions for Rings
 D Jury
@@ -8638,112 +8254,64 @@ Faute
 Petite
 0.10
 0.50
-+
 Jury E
 Faute
 0.30
 0.50
 More than 2 times element Guczoghy or 2 times element Li Ning.
-+
-+
-+
-+
 pas
 reconnu.
 Supporting or balancing with
 feet or legs on cables.
-+
 pas
 reconnu.
 Fall from handstand.
-+
 Excessive swing of cables.
-+
 Preceding strength hold high
 angle- press to strength (also
 apply to 2nd element).
 Media
 0.30
 0.50
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
 no-recog
 per
 element
-+
 las anillas
-+
 por
-+
 no-recog
-Code MAG 2017
-+
-+
 0.50
-+
-+
-+
-+
 Media
 0.30
-+
-+
 0.10
-+
-+
 Bent arms during swing to
 strength hold parts or to establish hold position.
-+
 Touching cables or straps with
 arms, feet or other parts of body
-+
 per
 element
 Compositional errors.
 strength holds (each time).
-+
 Large
 0.50
-+
 Legs apart or other poor execution during jump or lift to Rings.
-+
 Medium
 0.30
-+
 Hold of a non-listed part for 2 s.
 or more.
-+
 suspension.
 Error
 Crossing cables during any
 element.
-+
 0.10
 Layaway on the back swing.
-+
-+
 and non-recognition by the D-jury
 Small
 0.10
 Coach gives gymnast an initial
 swing.
-+
 Large
 0.50
-+
 Pre-swing before start of
-+
 Medium
 0.30
 E Jury
@@ -8753,12 +8321,8 @@ Small
 0.10
 Error
 No swing to handstand.
-+
 0.30
-+
 por
-+
-+
 80
 A = 0,1
 B = 0,2
@@ -8767,33 +8331,16 @@ D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
 	 Uprise fwd. to support.
-2.
-3.
-4.
-5.
-6.
-10.
-11.
-12.
-15.
-16.
-17.
 	 From a hang or support, back toss to hang rw.
 to uprise fwd. to support.
 (Li Ning)
-22.
-23.
 	 Swing bwd in support, fall to bwd swing in hang. 	 #1 and counter salto fwd. to bwd swing in hang.
 (also from Li Ning).
 (Chechi)
 	 From hang, underswing w. shoulders above
 rings.
 (Nakayama)
-19.
-18.
-24.
 (Li Ning 2)
-Code MAG 2017
 81
 A = 0,1
 B = 0,2
@@ -8805,27 +8352,17 @@ F = 0,6 G = 0,7 H = 0,8
 	 Piked double felge bwd. to hang.
 	 From hang, felge upward to support.
 	 Swing fwd. with straight arms through hdst.
-30.
 	 Stretched double felge bwd. to hang.
 	 Dislocate bwd. piked or stretched.
 	 Felge upward to support with straddled legs
 supported above the rings (2 s.).
 34.	
-35.
 	 Uprise bwd. to support.
 	 Uprise bwd. or giant swing piked or str. through
 handstand.
-40.
-41.
 	 Inlocate piked or stretched.
 	 Backward swing to salto fwd. p. to support.
-46.
-47.
-36.
-42.
-48.
 (Honma)
-Code MAG 2017
 82
 A = 0,1
 B = 0,2
@@ -8838,26 +8375,13 @@ ment.
 	 Double salto fwd. tucked to hang.
 	 Double salto fwd. piked or stretched to hang.
 (Yamawaki)
-54.
 	 Kip to support.
 56.	
-57.
-58.
-59.
-60.
 	 Back kip to support.
 	 Back kip with straight arms to support.
-63.
-64.
-65.
-66.
 	 Fwd. swing to swing bwd. in hang.
-70.
 	 Uprise bwd. to straddled L-sit (2 s.).
 	 Bwd. swing, salto fwd tuck or piked to support.
-71.
-72.
-Code MAG 2017
 83
 A = 0,1
 B = 0,2
@@ -8867,26 +8391,12 @@ E = 0,5
 F = 0,6 G = 0,7 H = 0,8
 	 From support or cross, felge bwd. piked or
 stretched to support.
-76.
-77.
-78.
-79.
 	 Back kip or roll bwd str. to handstand (2 s.).
 	 Swing fwd. with straight arms to hdst. (2 s.).
-83.
-84.
-85.
-86.
-89.
-90.
-91.
 	 From support swing bwd. to handstand (2 s.). 	 Honma and swing bwd. to handstand (2 s.).
 	 Honma str. and swing bwd. to handstand (2 s.).
-96.
-75.
 	 Uprise bwd. or giant swing to handstand with
 straight arms (2 s.).
-Code MAG 2017
 84
 A = 0,1
 B = 0,2
@@ -8897,23 +8407,14 @@ F = 0,6 G = 0,7 H = 0,8
 	 L-sit (2 s.) or straddled L-sit (2 s.).
 	 V-sit (2 s.).
 	 Press from inverted cross to handstand (2 s.).
-6.
 	 Support scale straddled (2 s.).
 	 Support scale at ring height (swallow or maltese 	 Inverted swallow (2 s.).
 cross) (2 s.).
-12.
 	 Hanging scale frontways (front lever) (2 s.).
 	 Any cross (2 s.).
 	 V cross (2 s.).
-16.
-17.
-18.
 19.	
-20.
-21.
 	 V Cross, press to V-sit (2 sec.).
-24.
-Code MAG 2017
 85
 A = 0,1
 B = 0,2
@@ -8930,19 +8431,16 @@ body. a. str. arms, or fr. strad. sup. lever (2 s.).
 from sup. lever (2 s.).
 swallow (2 s.).
 	
-30.
 - Also straddle legs.
 	 Slow roll fwd. piked to support.
 	 Slow roll fwd. stretched to support.
 yo.
-37.
 	 Slow roll fwd. stretched with straight arms to 	 Slow roll fwd. stretched with straight arms to
 handstand (2 s.).
 	 Slow roll bwd. slowly with str. arms and str. body 	 Slow roll fwd. stretched (bent or straight arms) 	 Pull with straight arms and body through mo- 	 Pineda a cristo en V (2 s.)
 to L sit (2 s.).
 to cross or L-cross (2 s.).
 mentary front lever to cross or L-cross (2 s.).
-36.
 42.	
 (Pineda)
 43.	
@@ -8950,7 +8448,6 @@ mentary front lever to cross or L-cross (2 s.).
 45.	
 	 Pineda through cross to support scale (2 s.).
 (Pham)
-Code MAG 2017
 	 Pull with straight body and arms through moment. front lever to swallow (2 s.).
 86
 A = 0,1
@@ -8959,13 +8456,11 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-49.
 	 Azarian to V Cross (2 s.).
 dorsale horizontal (2 s.).
 	 Vertical pull up with bent arms to hanging scale 	 Vertical pull up with straight arms to hanging 	 Roll bwd. slowly with str. arms and body to cross 	 Azarian a cristo en V (2 s.).
 rearways (2 s.).
 (Tay)
-55.
 	 Nakayama to V cross (2 s.).
 	 Fr. cross or L-cr., turn fwd. to back lever (2 s.). 	 Vertical pull up with straight arms to L-sit (2 s.). 	 From or through hanging scale rearways, with 	 Nakayama a cristo en V (2 s.).
 	 Through hanging scale rearways (no hold restraight arms pull to cross or L-cross (2 s.).
@@ -8973,22 +8468,18 @@ quired) pull with str. body through cross to inv.
 swallow (2 s.).
 	
 (Nakayama)
-61.
 ou croix angle (2 s.).
 	 From hdst., lower horiz. to back lever (2 s.).
 	 From sup. or cross, lower slowly with str. arms 	 Vertical pull up with straight arms to cross or
 	 Del apoyo invertido bajar horizontal a la suspento hang, and pull with str. arms to cross (2 s.).
 ing scale rw. and press to swallow (2 s.) or from
 swallow same to planche or planche to planche.
-67.
 	 From handstand, lower slowly with straight arms
 through inverted cross to inverted hang.
-54.
 	 From swallow, press to support scale (2 s.).
 	 De hirondelle elevarse al apoyo fac. horiz. (2 s.). 	 From swallow , lower slowly to handing scale, 	 From hanging scale rw. press to swallow (also
 press to swallow (2 s.).
 to Support Scale) (2 s.).
-Code MAG 2017
 87
 A = 0,1
 B = 0,2
@@ -8996,35 +8487,24 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-73.
-74.
 	 From L-cross, press to inverted cross (2 s.).
 (2 s.).
 	 From L-sit, press to inverted cross (2 s.).
 	 De cristo en ángulo, elevarse a cristo inv. (2 s.). 	 From cross, press with straight body to inverted
 cross (2 s.).
-79.
-80.
 	 From swallow, press to inverted cross (2 s.).
 renverse (2 s.).
 	
 From cross or L-cross, press to L-sit (2 s.).
 	
-85.
-86.
 87.	
 zontal (2 s.).
 	 From cross, press to swallow (2 s.).
 	 From cross, press to planche without first going 	 De cristo, elevarse a Hirondelle (2 s.).
 horizontal (2 s.).
-91.
-92.
-93.
 	 From inverted cross lower slowly to inverted 	 From inverted cross lower slowly to inverted
 hang and felge bwd. slowly to swallow (2 s.).
 hang and felge bwd. slowly to cross (2 s.).
-Code MAG 2017
-90.
 (Jotchev)
 88
 A = 0,1
@@ -9038,13 +8518,6 @@ Roll bwd. slowly with str. arms and body to
 Roll bwd. slowly with str. arms and body to free 	
 swallow (2 s.).
 	
-97.
-98.
-99.
-100.
-103.
-104.
-105.
 	
 Azarian to inverted Swallow (2 s.).
 horizontal (2 sec.).
@@ -9056,9 +8529,6 @@ to swallow or to support scale (2 s.).
 and press to planche without first going to sup- 	
 port (2 s.).
 	
-109.
-110.
-111.
 	
 Slow roll fwd. with str. body and arms to Cross
 or L-Cross (2 s.), also from inverted hang.
@@ -9066,16 +8536,11 @@ or L-Cross (2 s.), also from inverted hang.
 	 Through hang rearways press with straight arms
 and straight body to inverted cross (2 s.).
 (Carmona)
-115.
-116.
-117.
-118.
 	
 Slow roll fwd. with straight body and arms 	
 From hang vertical pull up with straight arms to
 through cross to inverted cross (2 s.).
 	
-Code MAG 2017
 89
 A = 0,1
 B = 0,2
@@ -9083,30 +8548,18 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-1.
 	 Uprise fwd. to L-sit, (2 s.).
 	 Uprise fwd. to V-sit (2 s.).
-7.
 	 Kip to L-sit (2 s.).
 	 Kip to V-sit (2 s.).
-13.
 	 Backward swing to salto fwd. p. to L-sit (2 s.).
 (Honma)
-19.
-20.
-21.
-4.
-5.
 6. 	
-11.
-12.
 	 Salto fwd. betw. rings direc. to cross / L-cross (2 s.). 	 Salto fwd. between rings directly to V cross (2 s.).
 en V (2 s.).
 (Tanaka)
 (2 s.).
 	 Bwd. swing, salto fwd p. to cross or L- cross (2 s.).
-Code MAG 2017
-24.
 90
 A = 0,1
 B = 0,2
@@ -9114,30 +8567,18 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-25.
-26.
 	 Uprise fwd. to cross or L-cross (2 s.).
-29.
-30.
-31.
-32.
 angle (2 s.).
 	 Uprise bwd. to cross or L-cross (2 s.).
-35.
-36.
-37.
 38.	
 	 Li Ning or Li Ning 2 to cross or L-cross (2 s.).
 en V (2 s.).
 	 Li Ning or Li Ning 2 to V Cross (2 s.).
 42.	
-43.
-44.
 	 Kip to V cross (2 s.).
 	 Felge upward to cross or L-cross (2 s.).
 	 Felge upward to sup. scale at ring height (2 s.). 	 Domin. ad. a hirondelle inv. sin fase de apoyo (2 s.).
 (Rodrigues)
-Code MAG 2017
 91
 A = 0,1
 B = 0,2
@@ -9145,24 +8586,14 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-49.
 	 Kip to cross, or L-cross (2 s.).
 	 Kip to inverted swallow (2 s.).
 en V (2 s.).
 	 Back Uprise to V Cross (2 s.).
-55.
-56.
 	 Back kip to cross or L-cross (2 s.).
-61.
-62.
 	 Felge upward to support scale straddled (2 s.). 	 Felge upward to support scale (2 s.).
-66.
-67.
-68.
 zontal (2 s.).
 	 Uprise bwd. to support scale straddled (2 s.). 	 Uprise bwd. to support scale (2 s.).
-72.
-Code MAG 2017
 	 Back kip to support scale at ring height (2 s.).
 92
 A = 0,1
@@ -9171,31 +8602,13 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-73.
-74.
 	 Back kip to support scale straddled (2 s.).
-79.
-80.
-81.
 tal (2 s.).
 	 Felge bwd. stretched to free sup. scale (2 s.).
 (2 s.).
-84.
-85.
-86.
-87.
 	 Felge upward with straight arms to invert. cross
 (2 s.).
-90.
-91.
-92.
-93.
 	 Uprise bwd. to inverted cross (2 s.).
-95.
-96.
-Code MAG 2017
-77.
-78.
 93
 A = 0,1
 B = 0,2
@@ -9203,14 +8616,8 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-97.
-98.
-99.
 	
 	
-Code MAG 2017
-101.
-102.
 94
 A = 0,1
 B = 0,2
@@ -9219,27 +8626,16 @@ D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
 	 Salto fwd. piked or stretched.
-5.
 	 Salto fwd. piked or stretched with ½ t.
 	 Salto fwd. piked or stretched with 1/1 or 3/2 t. 	 Salto fwd. piked or stretched with 2/1 t.
-7.
-8.
 	 Double salto fwd. tucked or tucked with ½ t.
 	 Double salto fwd. tucked with 3/2 t (also 1/1 t.).
-13.
-14.
-15.
 	 Double salto fwd. piked or piked with ½ t.
-6.
-12.
 	 Double salto fwd. piked with 3/2 t. (also 1/1 t.).
 	 Uprise bwd. and salto bwd t.
 	 Uprise bwd. and salto bwd p. or str.
 1/1 t.
 1/1 g.
-Code MAG 2017
-23.
-24.
 95
 A = 0,1
 B = 0,2
@@ -9252,27 +8648,17 @@ F = 0,6 G = 0,7 H = 0,8
 	 Salto bwd. stretched with 2/1 t. or 3/2 t.
 28.	
 	 Salto bwd. stretched with 3/1 t.
-30.
-31.
 	 Double salto bwd. tucked or piked.
 	 Double salto bwd. stretched.
-34.
-35.
 	 Triple salto bwd. tucked.
 G
-37.
-38.
 	 Double salto bwd. t. with ½ or 1/1 t.
 	 Doble mortal at. agr. con ½ o 1/1 g.
 	 Double salto bwd. t. with 3/2 t.
 	 Double salto bwd. t. with 2/1 t.
 	 Double salto bwd. t. with 5/2 t.
-43.
-44.
 	 Salto bwd. str. with 1/1 t. and salto t.
 	 Double salto bwd. stretched with ½ or 1/1 t.
-Code MAG 2017
-47.
 	
 Double salto bwd. stretched with 3/2 or 2/1 t.
 	
@@ -9317,7 +8703,6 @@ straddled legs are neither listed nor permitted.
 6.	The gymnast must show the intended body position (tucked, piked,
 or stretched) in a distinct and unmistakable manner. Indistinct body
 positions are deducted by the E-Jury and may result in recognition
-Code MAG 2017
 97
 mains.
 as a lower value vault by the D-Jury.
@@ -9357,7 +8742,6 @@ Article 13.2.2 Information about the D score
 1.	The gymnast must show one vault in Qualification, Team Final
 and the All-Around Final. In the Qualification for Vault Final and in
 Vault Finals he must show two vaults, which must be from different
-Code MAG 2017
 98
 Groupe I	
 Groupe II	
@@ -9414,7 +8798,6 @@ d)	Spotting assistance during the vault.
 e)	The gymnast does not land with his feet first. This means that
 at least one foot must contact the landing mat before any other
 part of the body.
-Code MAG 2017
 99
 f)	 The gymnast lands intentionally in a side stand.
 g)	The gymnast performs a prohibited vault (straddled legs, salto
@@ -9444,7 +8827,6 @@ saltos).
 forma:
 -	 When 2 vaults are required, a third run approach is permitted
 with deduction. Fourth approach not permitted.
-Code MAG 2017
 100
 Jury D
 Faute
@@ -9478,26 +8860,6 @@ Repeating 1st vault group in Qualification or in Vault-Final.
 2,0 point deduction for the 2nd vault
 0.30
 0.50
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
 salto
 salto
 E Jury deductions
@@ -9526,29 +8888,9 @@ Medium
 0.30
 Large
 0.50
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
 rise of the body.
-+
-+
-+
 Lack of extension in preparation
 for landing.
-+
-+
 Error
 Execution errors in 1st flight.
 Technical errors in 1st flight.
@@ -9556,32 +8898,11 @@ Passing the handstand position not
 through the vertical.
 Execution errors in 2nd flight.
 Technical errors in 2nd flight.
-Code MAG 2017
 0.10
 Media
 0.30
 0.50
-+
-+
-+
-+
-+
-+
-+
-+
-+
 fase.
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
 fase.
 101
 2017 - 2020
@@ -9743,7 +9064,6 @@ Handspring w 1/1 tw to salto forward piked (Rehm)
 118
 Handspring w. 1/1 tw. to salto fwd. piked ½ tw. (Arican)
 4,8
-Code MAG 2017
 102
 2017 - 2020
 EG2
@@ -9914,7 +9234,6 @@ Handspring salto fwd. ½ tw to salto bwd. (Zimmerman)
 This page also shows vaults with same or similar 2nd flight phase, denoted with the same last two digits in the vault number and
 Key number in the table boxes. The vaults with a potential deduction of -2.0 for qualification to and in the apparatus final are
 located in the same row of this table.
-Code MAG 2017
 5,2
 5,6
 KEY
@@ -9975,7 +9294,6 @@ p. w. 1/1 t.).
 121.	
 4.0
 122.	
-Code MAG 2017
 	
 Forward handspring with 2/1 t.
 	
@@ -10014,14 +9332,8 @@ str. 3/2 t.).
 4.4
 4.8
 182.	
-186.
-187.
-188.
-193.
-194.
 (Dragulescu)
 5.2
-189.
 	
 Handspring fwd. and salto fwd. t. w. ½ t. and 	
 Handspring fwd. and dbl. salto fwd. piked.
@@ -10039,10 +9351,8 @@ salto bwd. t.
 5,2
 180.	
 5.6
-185.
 5.6
 6.0
-Code MAG 2017
 105
 	
 Handspring sw. with ¼ t.
@@ -10064,9 +9374,7 @@ Hdspr. sw. with. ¼ t. a. salto fwd. t.
 1.8
 	 Tsukahara t. with ½ t.
 2.4
-.
 233.	
-239.
 2.0
 2.4
 2.8
@@ -10078,14 +9386,8 @@ Hdspr. sw. with. ¼ t. a. salto fwd. t.
 3.2
 4.0
 2.2
-231.
 235.	
 236.	
-237.
-241.
-242.
-243.
-Code MAG 2017
 106
 	
 	
@@ -10107,9 +9409,6 @@ Kasamatsu str. with 5/2 t. or Tsukahara st. with
 ext. con t/2 g.
 5.6
 6.0
-282.
-283.
-284.
 	
 Kasamatsu str. w. 1/1 t. or Tsukahara str. w. 2/1 t. 	
 Kasamatsu str. with 3/2 t.
@@ -10120,8 +9419,6 @@ Kasamatsu str. with ½ t. or Tsukahara str. w. 3/2 t.
 (Driggs)
 4.8
 4.4
-280.
-281.
 	
 Tsukahara with salto bwd. t.
 	
@@ -10131,18 +9428,11 @@ Double Tsukahara with 1/1 twist.
 	
 (Yeo)
 288.	
-289.
-290.
 5.2
-279.
 5.2
-291.
-Code MAG 2017
 (Lu Yu Fu)
 5.6
-292.
 6.0
-293.
 107
 	
 Round off, handspring bwd.
@@ -10178,22 +9468,10 @@ Yurchenko t. with 2/1 t.
 2.2
 2.4
 2.8
-344.
 345.	
-346.
 347.	
-348.
-349.
 350.	
 351.	
-352.
-352.
-353.
-354.
-355.
-356.
-357.
-Code MAG 2017
 108
 	
 	
@@ -10224,9 +9502,6 @@ Yurchenko stretched with 5/2 t.
 378.	
 379.	
 380.	
-381.
-383.
-384.
 385.	Yurchenko et salto arr. gr.
 	
 Yurchenko and salto bwd. t.
@@ -10241,13 +9516,7 @@ Melissanidis piked.
 (Melissanidis)
 5.2
 388.	
-389.
-390.
-391.
-Code MAG 2017
 5.6
-392.
-393.
 109
 	
 Round off, ½ t. and handspring fwd.
@@ -10275,19 +9544,14 @@ tucked with ½ t.
 	
 	
 2.6
-458.
 459.	
 3.0
 3.0
-460.
-461.
-466.
 467
 (Nemov)
 3.4
 462.	
 463.	
-464.
 465.	
 468.	
 469.	
@@ -10300,7 +9564,6 @@ str. with 1/1 t.
 str.
 str. with ½ t.
 3.8
-Code MAG 2017
 4.2
 (Hutcheon)
 4.6
@@ -10322,24 +9585,12 @@ fwd. tucked.
 5.8
 5.4
 480.	
-481.
-482.
-483.
-484.
-485.
 486.	
 487.	
-488.
-489.
-490.
-491.
 492.	
 493.	
-494.
 495.	
 496.	
-497.
-Code MAG 2017
 111
 Scherbo entry to salto bwd. tucked.
 	
@@ -10384,7 +9635,6 @@ Scherbo with 2/1 t.
 5.4
 580.	
 2.8
-569.
 3.0
 3.0
 	
@@ -10399,14 +9649,9 @@ Scherbo with 5/2 t.
 	
 3.8
 4.2
-576.
-577.
 582.	
-583.
 5.8
-581.
 4.0
-Code MAG 2017
 112
 Section 14: Parallel Bars
 Height: 180 cm from top of mat, 200 cm from floor.
@@ -10442,7 +9687,6 @@ lay back to upper arm hang.
 b)	No extra support is allowed during elements with turns on
 one arm support. Elements such as giant swing with turn,
 backward uprise with turn, forward uprise with full turn, Felge
-Code MAG 2017
 113
 horizontal.
 IV.	Sorties.
@@ -10485,7 +9729,6 @@ c)	Unless otherwise indicated in the difficulty tables, elements
 performed from or to unusual or rotated grip positions (supinated or pronated) have the same identification number and
 value as analogous elements performed from or to the usual
 grip position.
-Code MAG 2017
 114
 d)	Elements formed by combined independent elements must
 demonstrate no pause between elements, or they will receive
@@ -10542,7 +9785,6 @@ f)	 All Healys must have 360° or more turns to be recognized as
 a Healy type element.
 	 i.e. From a swing element (minimum B value) to handstand
 on one bar sideways, requires a Healy (450° turn) to support
-Code MAG 2017
 115
 	Exemples:
 for an E value.
@@ -10574,74 +9816,37 @@ Petite
 Not controlled momentary
 handstand positions on 1
 or 2 rails.
-+
-+
-+
 (50’’).
-+
-+
 excessive hand separation
 Lack of extension at
 saltos.
-+
-+
 Medium
 0.30
-+
 Media
 0.30
-+
-+
-+
 control.
-+
-+
-+
-+
-+
-+
-+
 0.30 from the Final Score (D1 Judge) for
 individual competition or 1.00 from team
 score for team competition.
-Code MAG 2017
 0.10
-+
-+
 each time
-+
 subir.
-+
 Uncontrolled regrasping
 Non respect of the official
 warm up time (50’’).
 Large
 0.50
-+
 Pre-element.
 Stepping or hands adjustments in handstand.
-+
 Small
 0.10
 Layaway on the back swing.
-+
-+
 Error
 One leg step or swing on
 mount.
-+
 0.50
-+
 0.30
-+
 0.50
-+
-+
-+
-+
-+
-+
-+
 116
 A = 0,1
 B = 0,2
@@ -10653,25 +9858,17 @@ F = 0,6 G = 0,7 H = 0,8
 barres).
 	 Bent arm swing fwd. to hop ½ t. to sup.
 	 Any L-sit on 1 or 2 rails (2 s.).
-9.
 	 Swing fwd. w. 1/1 t. to up. arm hang.
 	 Straddle cut bwd. to hdst.
 	 Diamidov and ½ turn to upper arms.
 	 Straddle cut fwd. to support or L-sit (2 s.).
 	 Straddle cut bwd. to support.
-5.
 	 Stützkehr fwd. or salto bwd. to hdst. sideways on
 1 rail (also with additional ¼ or ¾ turn to hdst.).
 (Dimic)
-12.
 	 ¾ Diamidov and rear vault to side hang on 1 bar.
-18.
 	 Diamidov with ¼ or ½ t. to hdst.
 	 Strad. cut bwd. and salto fwd. to up. arm hang. 	 Swing fwd. w. 1/1 t. on 1 arm to hdst.
-6.
-Code MAG 2017
-23.
-24.
 117
 A = 0,1
 B = 0,2
@@ -10679,7 +9876,6 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-25.
 	
 ¾ Diamidov & ¾ Healy on the other hand to supp.
 	
@@ -10693,25 +9889,17 @@ hdst. and healy to support.
 	
 	
 apoyo.
-31.
 	 Swing fwd. to hdst., hop to support.
 	 Salto bwd to handstand. Also to one rail.
 banda.
-36.
-37.
-38.
 39.	
 	 Salto bwd to handstand 1 rail (connected to
 Healy type element).
 (Rumbutis)
-42.
-43.
 44.	
 	 Salto bwd. with ½ t. to up. arm hang.
 	 Double salto t. to up. arm hang.
-48.
 (Morisue)
-Code MAG 2017
 	 Double salto p. to up. arm hang.
 118
 A = 0,1
@@ -10720,26 +9908,18 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-49.
 	 Hdst. with ¼ t. and fall back to sup. with ¼ t.
 	 Hdst. with ¾ t. and fall back to sup. with ¼ t.
 	 3/2 salto bwd. with ½ t. to up. arm hang.
 53.	
 54.	
-55.
 56
 	 Stützkehr bwd. with straddle cut bwd. to sup.
-59.
-60.
-61.
 	
 	
 	
 Stützkehr bwd. through hdst. to support.
 	
-65.
-66.
-67.
 	 Healy to upper arm hang.
 	 From hdst. on 1 rail, Healy to upper arm hang. 	 Healy to support (also from hdst. on 1 rail).
 Following a swing element (min. B) to hdst on
@@ -10748,7 +9928,6 @@ Following a swing element (min. B) to hdst on
 	
 Min.
 B
-Code MAG 2017
 119
 A = 0,1
 B = 0,2
@@ -10756,7 +9935,6 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-73.
 	
 	
 Swing bwd. with ½ t. hop to hdst.
@@ -10781,7 +9959,6 @@ Any 1/1 pirouette in hdst. on 2 rails.
 hdst.
 	 From hdst., salto fwd to support or from hdsd.
 with rotated grip, inlocate to support.
-Code MAG 2017
 	 5/4 salto fwd. strad. through support to hang or
 directly to hang.
 120
@@ -10807,7 +9984,6 @@ Salto fwd. t. or p. to hang at the end of the bars.
 
 109.	
 110.	
-112.
 	
 5/4 salto forward str. to upper arm hang
 	
@@ -10816,7 +9992,6 @@ On end, 1 circle or flair.
 	
 In center or on end facing out, 1 circle or flair. 	
 	
-Code MAG 2017
 	
 5/4 salto fwd. strad. to bent arm sup.
 	
@@ -10831,7 +10006,6 @@ F = 0,6 G = 0,7 H = 0,8
 Any flair to hdst.
 Any flair with ½ t. to hdst.
 
-Code MAG 2017
 122
 A = 0,1
 B = 0,2
@@ -10847,24 +10021,19 @@ uprise to Kato hop to sup.
 al exterior.
 4.	
 	 Fwd. uprise with ½ t. to handstand.
-10.
 	 Fwd. uprise to Makuts to support.
 	 Fwd. uprise to Makuts to upper arm.
 (Tsolakidis 1)
 G
-13.
 	 Roll bwd to handstand with straight arms.
-16.
 	 Fwd. uprise with 3/2 t. to handstand.
 	 Fwd. uprise with 1/1 t. to handstand.
 (Tsolakidis 2)
-19.
 	 Roll bwd. with strad. cut to support.
 	 Salto bwd. with strad. cut to up. arm hang.
 	 Roll bwd with salto bwd tuck to upper arm hang. 	 Roll bwd with salto bwd piked to upper arm hang.
 (Dimitrenko)
 (Li Xiaopeng)
-Code MAG 2017
 123
 A = 0,1
 B = 0,2
@@ -10872,37 +10041,29 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-25.
 26.	
-31.
 	 Bwd. uprise to handstand (or w. ½ t).
 	
 Bwd. uprise with ½ t. hop to handstand.
 	
 Bwd. uprise with ¾ t. hop to hdst. on 1 rail.
-36.
-37.
 	
 Bwd. uprise with ½ t. and straddle cut bwd to 	
 Bwd. uprise with ½ t. a. strad. cut bwd. to sup.
 	
 	
-42.
 43.	
 	 Bwd. uprise with ½ t. to support.
 27.	
-30.
 	 Roll bwd. with ½ t. tuck to upper arm hang.
 	 Roll bwd. with ½ t. tuck to hang.
 quial.
 (Dalton)
-41.
 	 Bwd. uprise and salto fwd. p. to sup.
 Bwd. uprise and double salto fwd. t. to up arm
 up.arm hang.
 hang.
 (Yamawaki)
-Code MAG 2017
 124
 A = 0,1
 B = 0,2
@@ -10917,7 +10078,6 @@ arm hang.
 	 Bwd. uprise and strad. cut or flank over to sup. 	 Bwd. uprise and strad. cut or flank over to sup.
 str. arm.
 
-Code MAG 2017
 125
 A = 0,1
 B = 0,2
@@ -10925,34 +10085,23 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-1.
-2.
 	 Swing forward, straddle cut backward, and
 regrasp with straight body at horizontal.
 	 Swing forward, straddle cut backward, and regrasp 	 Moy piked with straddle bwd to hdst.
-7.
 	 Moy piked with 1/1 t. to up. arm hang.
 	 Moy piked with stradd. cut bwd. and ½ t. to up. 
 arm hang (also legs together).
 (Nolet)
 	 Moy and salto fwd. t., p. or strad. to upper arm
 hang.
-12.
-13.
 	 Moy to support bent legs (also without grip 	 Moy to support str. legs (also without grip
 release).
 release).
 (Moy)
-19.
-20.
-17.
 	 Giant swing bwd. to hdst. or with inlocation fwd. 	 Giant swing bwd. to hdst. on one rail (connected to
 (also with ¼ or ½ turn and to one rail).	
 Healy type element).
-18.
-24.
 (Wells)
-Code MAG 2017
 126
 A = 0,1
 B = 0,2
@@ -10960,14 +10109,10 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-25.
-26.
-31.
 pension.
 	 Giant swing bwd. with ½ t. to up. arm hang.
 	 Giant swing bwd. with ½ t. to support.
 	 Swing down with salto bwd. str. to hang.
-27.
 	 Giant swg. Diamidov with ¼ or ½ t. to hdst.
 	 Giant swg. bwd. with Diamidov to hdst., also to 
 one rail.
@@ -10975,18 +10120,14 @@ one rail.
 (connected to Healy type element).
 (Quintero)
 G
-37.
 38.	
 39.	
 	 Giant swing bwd. with Makuts to upper hang.
-42.
-43.
 	 Giant swing bwd. w. strad. cut to up. arm hang.
 	 Giant swing bwd. with straddle cut to support or 	
 Giant swing bwd. with ½ t. and str. cut bwd. to
 up. arms.
 (Sosa)
-Code MAG 2017
 127
 A = 0,1
 B = 0,2
@@ -11011,17 +10152,12 @@ arm hang.
 	 Glide kip one or two rails.
 	 Glide kip. with 1/2 t. to support.
 	 Glide kip bwd. to hdst.
-67.
 	 Glide kip to strad. cut bwd. hdst. on 1 or 2 r.
-64.
 	
 Giant swing bwd. and salto with ½ str to up.
 arm hang.
 (Fokin)
 70.	
-71.
-Code MAG 2017
-72.
 128
 A = 0,1
 B = 0,2
@@ -11029,18 +10165,15 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-73.
 	 Glide kip through L-sit p. to hdst.
 	 Glide kip one rail through L-sit strad. to hdst. 	 Glide kip through L-sit p.to hdst. and hop with
 3/4 t or more.
 salto.
 78.	
-79.
 	 Glide kip through V-sit and hop ½ turn to hang
 on other rail.
 (Li Donghua)
 
-Code MAG 2017
 129
 A = 0,1
 B = 0,2
@@ -11059,7 +10192,6 @@ Felge with ½ t. to upper arm hang.
 	
 Felge with ½ t. to rear support.
 	
-103.
 	
 Cast with ½ t. to up. arm hang.
 	
@@ -11071,18 +10203,15 @@ Basket with ¼, ¾ or ½ t. to handstand.
 and hop to hdst. Also to one rail.
 	
 	
-102.
 	
 Basket with 1/1 t. to handstand.
 	
 (Teng Hai Bin)
-109.
 110.	
 	
 Cast to straddle cut backward to handstand.
 	
 (Arican)
-113.
 	
 Basket with 5/4 t. to handstand.
 	
@@ -11103,7 +10232,6 @@ Basket through handstand to Makuts.
 	
 (Yamamuro)
 G
-Code MAG 2017
 130
 A = 0,1
 B = 0,2
@@ -11117,33 +10245,20 @@ Basket forward to support.
 	
 Basket forward with ½ t. to support.
 	
-123.
 124.	
 	
 Basket with salto bwd t. to up. arm hang.
 	
-127.
 	
 Shoot up to hdst. and hop to other rail.
 	
 	
 Shoot up with ¼ t. to hdst.
 	
-132.
-133.
-134.
-135.
 	
 Straddled shoot to hdst on 1 rail.
 	
-138.
-139.
 140
-141.
-142.
-144.
-Code MAG 2017
-143.
 131
 A = 0,1
 B = 0,2
@@ -11159,8 +10274,6 @@ F = 0,6 G = 0,7 H = 0,8
 3/2 g.
 5/2 g.
 	 Double salto fwd. piked.
-7.
-8.
 
 	 Double salto fwd. t. from end.
 11.	
@@ -11168,7 +10281,6 @@ F = 0,6 G = 0,7 H = 0,8
 13.	
 14.	
 15.	
-17.
 	 Double salto fwd. piked with ½ t.
 16.	
 G
@@ -11176,10 +10288,8 @@ G
 	 Salto bwd. piked or str. with ½ t.
 	 Salto bwd. piked or str. with 1/1 or 3/2 t.
 	 Salto bwd. str. with 2/1 t.
-23.
 	 Double salto fwd. tucked with 1/1 t.
 G
-Code MAG 2017
 132
 A = 0,1
 B = 0,2
@@ -11187,7 +10297,6 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-25.
 26.	
 27.	
 31
@@ -11195,22 +10304,16 @@ F = 0,6 G = 0,7 H = 0,8
 	 Double salto bwd. t.
 	 Double salto bwd. t. from end.
 	 High wende and salto bwd t.or p.
-29.
 30.	
 	 Double salto bwd. pike.
-35.
 	 Double salto bwd. t. with 1/1 t.
 G
 37.	
-38.
-39.
 	 Double salto bwd. t. with ½ t. or salto bwd. ½ t.
 	 From hang on end, salto bwd. stretched.
 	 From hang on end, double salto bwd. t.
 	 From hang on end, dbl. salto bwd. piked.
 	 From hang on end, dbl. salto bwd. t. with 1/1 or
-Code MAG 2017
-42.
 	 From hang on end, dbl. salto bwd. t. with 2/1 t.
 133
 Section 15: Horizontal Bar
@@ -11244,7 +10347,6 @@ b)	Deviations in swings to or through handstand, including turns.
 - 0.1
 - 0.3
 	
-Code MAG 2017
 134
 Turning Elements finishing in mixed elgrip and double elgrip are
 subject to the following deductions:
@@ -11274,10 +10376,8 @@ Article 15.2.2 Information about the D score
 I.	 Long hang swings with and without turns.
 III. 	In bar and Adler elements.
 IV. 	Dismounts.
-Code MAG 2017
 135
 
-+
 =
 0,10
 =
@@ -11290,10 +10390,8 @@ Connection
 points
 Flight
 C value
-+
 C or higher
 D or higher value
-+
 D or higher value
 =
 0,10
@@ -11331,10 +10429,7 @@ III.	Endo swings in el-grip are considered to belong to Element Group III.
 i)	 Expectation for Rybalko:
 •	 Prerequisite condition for Rybalko is both hands in el-grip
 in end position.
-Code MAG 2017
-+
 o viceversa
-+
 =
 0,10
 =
@@ -11393,7 +10488,6 @@ deviation on first full twist) will not be recognized by the D-jury
 and receive a -0.5 deduction by the E-jury. This element may not
 be devalued to a Giant Swing Fwd. with one arm in undergrip (B
 value).
-Code MAG 2017
 137
 grand tour dorsal avant (grand tour russe, Élément IV.15) doivent
 en prise cubitale.
@@ -11436,7 +10530,6 @@ recognized.
 and over the top, swing in elgrip through the bottom and hop
 out to undergrip= No value for Adler (and -0.5 angle deduction)
 and B value el-grip giant.
-Code MAG 2017
 138
 2. Adler to handstand, swing in el-grip through the bottom and over
 the top into el-grip Endo, swing through the bottom in el-grip
@@ -11450,7 +10543,6 @@ any insufficient turning upon catching the bar.
 forward.
 21. For a further list of regulations governing non-recognition of elements and other aspects of the “D score”, see Section 7 and the
 summary of deductions in Article 7.6.
-Code MAG 2017
 139
 Jury D
 Faute
@@ -11471,19 +10563,13 @@ Large
 Media
 0.30
 0.50
-+
 Passing through lower vertical
 more than 2 times with one arm
-+
 and non-recognition by the D-jury
-+
-+
 More than 2 times Stoop circle
 rearward forward (Adler)
-+
 and non-recognition by the D-jury
 (Adler)
-+
 Jury E
 Faute
 E Jury
@@ -11497,21 +10583,12 @@ Small
 0.10
 Legs apart or other poor
 to Horizontal Bar
-+
 Medium
 0.30
-+
-+
-+
-+
 Lack of swing or pause in
 handstand or elsewhere
-+
-+
 Low amplitude on flight
 elements
-+
-+
 Deviation from plane of
 movement
 position
@@ -11530,29 +10607,17 @@ Elements not continuing in
 their intended direction (applied after element) Needed
 to show the element can
 receive value
-+
 Any flight element with salto
 over the bar without a giant
 swing afterward
-+
-Code MAG 2017
 0.50
-+
-+
 Media
 0.30
-+
-+
 Illegal elements with or from
 feet on the bar
-+
 Layaway on the back swing
-+
-+
 Large
 0.50
-+
-+
 140
 A = 0,1
 B = 0,2
@@ -11562,20 +10627,10 @@ E = 0,5
 F = 0,6 G = 0,7 H = 0,8
 	 Back uprise to handstand.
 	 Back uprise to hdst. with 1/1 turn also to mixt.
-4.
-5.
-6.
-10.
-11.
-12.
 	 Giant swing fwd. with 1/1 turn in double elgrip.	
-17.
-18.
 	
 Flying giant swing fwd. with 1/1 t.
 	
-23.
-24.
 	 Back uprise to handstand with ½ turn.
 	 Swing bwd. and pirouette to hang.
 	 Swing bwd. and pirouette to support.
@@ -11591,8 +10646,6 @@ Giant swing fwd. with ½ t. thr. hdst.
 	
 Flying giant swing fwd. or with½ turn.
 	
-22.
-Code MAG 2017
 141
 A = 0,1
 B = 0,2
@@ -11600,29 +10653,18 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-25.
 	
 Giant swing fwd. with one arm in ungr. (360°).
 	
 On one arm, giant swing fwd. w. 1/1 t. to el-grip
 and 1/1 t. to ugr.
 	
-29.
-30.
 	 Giant swing bwd.
 	 One arm giant swing bwd. (360°).
-33.
-34.
-35.
 36
 	
 Giant swing bwd. with ½ turn.
 	
-38.
-39.
-40.
-41.
-42.
 	
 Giant swing bwd. with hop to undergrip.
 	
@@ -11635,9 +10677,6 @@ Flying giant swing bwd. with 1/1 t.
 	
 Flying giant swing bwd. with 2/1 t.
 	
-47.
-48.
-Code MAG 2017
 142
 A = 0,1
 B = 0,2
@@ -11645,7 +10684,6 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-49.
 	
 Giant swing bwd. with hop ½ t. to el-grip.
 	
@@ -11655,19 +10693,11 @@ Giant swing bwd. with hop 3/2 t. to undergrip,
 mixed el-grip.
 (Rybalko)
 	
-55.
 	 Giant swing bwd. with ½ t. to el-grip.
 57.	
-58.
-59.
-60.
-61.
 	 Long swing fwd. with hop to el-grip.
 63.	
 64.	
-65.
-66.
-67.
 	
 El-grip giant swing.
 	
@@ -11678,9 +10708,6 @@ Giant swing rearways fwd. (Russian giant).
 	
 Giant swing rw. bwd. (Czech giant swing).
 	
-72.
-Code MAG 2017
-54.
 143
 A = 0,1
 B = 0,2
@@ -11699,26 +10726,11 @@ and dislocate to hdst.
 	
 	
 a molino.
-78.
-79.
 80.	
 81.	
-82.
-83.
-84.
-85.
 86.	
 87.	
 88.	
-89.
-66.
-67.
-68.
-69.
-70.
-71.
-72.
-Code MAG 2017
 144
 A = 0,1
 B = 0,2
@@ -11726,18 +10738,13 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-1.
 	 Markelov stretched with legs together.
 	 Back uprise and straddle over to hang rw.
 	 Back uprise and strad. hecht with ½ t. to hang. 
 (Markelov)
 (Yamawaki)
-7.
-8.
 	 Swing fwd. and vault bwd. strad. or piked to hang. 	 Tkatchev stretched.
 (Tkatchev)
-13.
-14.
 15.	
 	 Tkatchev stretched with 1/1 t.
 	 Tkatchev stretched with ½ t. to mix el-grip into 
@@ -11748,14 +10755,11 @@ Tkatchev straddled ½ t. to double elgrip.
 back uprise to hdst.
 	
 (Lynch)
-19.
 	 Back uprise and piked vault with ½ t. to hang.
 	 Back uprise and hecht stretched with 3/2 t. to
 hang.
 (Walstrom)
-5.
 	 Stalder, stoop circle or free hip circle bwd to	
-Code MAG 2017
 18.	
 	 Piatti stretched with ½ t. to mix el-grip into back
 uprise to hdst.
@@ -11766,17 +10770,12 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-25.
 	 Back uprise and rear vault with ¼ t. to hang.
 		Piatti stretched with 1/1 turn.
 	
 Piatti with ½ t. to mix el-grip into back up. to hdst.
 	
 G
-31.
-37.
-32.
-38.
 	 Salto fwd. stretched, also from el-grip.
 also from el-grip.
 	 Salto fwd. stretched with 1/1 t. also from el grip.
@@ -11785,15 +10784,12 @@ also from el-grip.
 39.	
 40.	
 G
-43.
-44.
 45.	
 	
 Swing fwd. and counter salto fwd. strad. to hg.
 Yamawaki ½ t. stretched to mixed grip into back
 	
 uprise to hdst.
-Code MAG 2017
 146
 A = 0,1
 B = 0,2
@@ -11801,11 +10797,6 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-49.
-55.
-50.
-56.
-51.
 	 Salto fwd, tuck or strad. over the bar, also from el-grip.
 (Gaylord)
 	
@@ -11821,23 +10812,16 @@ Gaylord piked.
 	
 	
 G
-61.
-62.
 suspension.
 	 Swing fwd. and salto bwd. strad. w. ½ t. to hg.
-65.
 	 Kovacs stretched or piked with 1/1 turn.
 (Cassina)
 G
 (Pineda - piked)
-67.
-68.
 	 Swing fwd. and salto bwd. piked w. ½ t. to hang.
 susp.
-71.
 	 Swing fwd. and salto bwd. w. 3/2 t. to hang.
 (Deff)
-Code MAG 2017
 147
 A = 0,1
 B = 0,2
@@ -11845,17 +10829,12 @@ C = 0,3
 D = 0,4
 E = 0,5
 F = 0,6 G = 0,7 H = 0,8
-73.
-74.
 	
 	Stalder ½ t. to rear vault with ¼ t. to hang.
 	
 Salto bwd. ½ t.tucked over the bar.
 
 (Jansen)
-79.
-80.
-81.
 78. 	
 	 Salto bwd. ½ t.piked over the bar.
 (Gaylord 2)
@@ -11868,10 +10847,6 @@ Kovacs piked or stretched.
 Kovacs with 2/1 t.
 	
 H
-85.
-86.
-87.
-88.
 	 Kovacs with 1/1 t.
 
 	 Kovacs with 3/2 t. to mix grip.
@@ -11905,7 +10880,6 @@ to handstand.
 (Endo)
 
 	 Endo with ½ t. thr. hdst.
-43.
 	 Stalder with hop 1/1 t. through hdst.
 prise cub.
 	 Free circle bwd. straddle or legs together thr.	 Stalder with hop 3/2 turn through hdst. in mix 	 Stalder with hop 3/2 turn through hdst. in el-grip.
@@ -11915,7 +10889,6 @@ el-grip.
 	 Endo with 1/1 t. thr. hdst. in el-grip.
 	 Endo. with 1/1 t. thr. hdst. in mixt grip.
 
-Code MAG 2017
 
 	 Stalder with ½ turn through hdst.
 cub.
@@ -11925,9 +10898,6 @@ cub.
 	 Stalder with hop through hdst. in el-grip.
 cubital.
 59. 	
-60.
-61.
-62.
 	
 Stoop circle rearward fwd. through hdst.
 (Adler).
@@ -11946,11 +10916,7 @@ with hop.
 
 Endo in el-grip and 1/1 t. to mixed grip or undergrip.
 	
-96.
-85.
-86. 	
 	 Steineman uprise w. stoop or to hdst.
-91.
 	
 Endo in el-grip thr. hdst.
 	
@@ -11993,7 +10959,6 @@ the bar.
 	
 Double salto fwd. str. or with ½ t.
 	
-Code MAG 2017
 	
 Double salto fwd. str. with 1/1 or 3/2 t.
 	
@@ -12082,7 +11047,6 @@ to be stretched but with a large error. If this occurs during an
 element it will not be recognized by the D-jury.
 e)	A straddled position must be shown with the maximum separation of the legs that the aesthetic and technical nature of the
 element allows.
-Code MAG 2017
 157
 f)	 Each of the salto positions - tucked, piked, stretched, straddled
 - is expected to be demonstrated so distinctly and conspicuously as to leave no doubt about the intent.
@@ -12130,7 +11094,6 @@ purpose is conspicuous and aesthetic it would be exempt from
 the usual amplitude requirements.
 d)	It is possible to perform a reverse Stützkehre on Parallel Bars
 through a handstand but that is essentially a different element
-Code MAG 2017
 158
 	
 (it is listed as such in the Difficulty Tables) and should not
@@ -12154,4 +11117,3 @@ counter-clockwise
 clockwise
 		 Elements in Side Support
 Elements in Cross Support
-Code MAG 2017

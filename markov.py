@@ -4,7 +4,7 @@ from twitter import *
 
 
 
-with open('copCombined.txt.bak') as f:
+with open('copCombined.txt') as f:
     text = f.read()
 
 text_model = markovify.Text(text)
@@ -25,4 +25,4 @@ def tweet():
     t.statuses.update(status=chain())
 
 if __name__ == '__main__':
-    print(chain())
+    print(tweet())
