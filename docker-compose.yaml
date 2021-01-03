@@ -3,7 +3,7 @@ services:
   cop-markov-twitter:
     container_name: cop-markov-twitter
     build: ./
-    working_dir: ${PWD}
+    working_dir: ${PROJECT_DIR}
     environment:
       AWS_ACCESS_KEY_ID: ${AWS_ACCESS_KEY_ID}
       AWS_SECRET_ACCESS_KEY: ${AWS_SECRET_ACCESS_KEY}
@@ -12,9 +12,9 @@ services:
       TWITTER_CONSUMER_SECRET: ${TWITTER_CONSUMER_SECRET}
       TWITTER_TOKEN: ${TWITTER_TOKEN}
       TWITTER_TOKEN_SECRET: ${TWITTER_TOKEN_SECRET}
-      PROJECT_DIR: ${PWD}
+      PROJECT_DIR: ${PROJECT_DIR}
     volumes:
-      - .:${PWD}:cached
+      - .:${PROJECT_DIR}:cached
       - ./entrypoint.sh:/entrypoint.sh
       - cop-markov-pypoetry-cache:/root/.cache/pypoetry/
       - /var/run/docker.sock:/var/run/docker.sock
