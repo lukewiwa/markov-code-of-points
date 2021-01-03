@@ -1,10 +1,4 @@
 .Python
-[Bb]in
-[Ii]nclude
-[Ll]ib
-[Ll]ib64
-[Ll]ocal
-[Ss]cripts
 pyvenv.cfg
 .venv
 pip-selfcheck.json
@@ -15,3 +9,7 @@ config.yaml
 venv
 .env
 .directory
+
+.mypy_cache
+
+.vscode
