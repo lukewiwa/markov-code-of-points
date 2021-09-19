@@ -12,8 +12,10 @@ text_model = markovify.Text(text)
 
 
 def generate_tweet():
-    tweet_length = random.randint(28, 280)
-    return text_model.make_short_sentence(tweet_length)
+    max_char = 280
+    min_char = 5
+    tweet_length = random.randint(min_char, max_char)
+    return text_model.make_short_sentence(tweet_length, min_chars=min_char)
 
 
 def tweet():
