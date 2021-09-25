@@ -17,7 +17,6 @@
 	"workspaceFolder": "${localWorkspaceFolder}",
 	// Set *default* container specific settings.json values on container create.
 	"settings": {
-		"terminal.integrated.shell.linux": null,
 		"python.pythonPath": "/root/.cache/pypoetry/virtualenvs/code-of-points-markov-twitter-STdYqYtO-py3.8/bin/python",
 		"python.formatting.provider": "black",
 		"python.linting.flake8Enabled": true,
@@ -38,7 +37,8 @@
 		"mgesbert.python-path",
 		"timonwong.shellcheck",
 		"yzhang.markdown-all-in-one",
-		"redhat.vscode-yaml"
+		"redhat.vscode-yaml",
+		"visualstudioexptteam.vscodeintellicode"
 	]
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],

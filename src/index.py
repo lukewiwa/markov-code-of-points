@@ -4,6 +4,8 @@ import random
 import markovify
 from twitter import OAuth, Twitter
 
+DISALLOW_LIST = [None, "none", "None"]
+
 
 with open("copCombined.txt") as f:
     text = f.read()
@@ -13,9 +15,14 @@ text_model = markovify.Text(text)
 
 def generate_tweet():
     max_char = 280
-    min_char = 5
-    tweet_length = random.randint(min_char, max_char)
-    return text_model.make_short_sentence(tweet_length, min_chars=min_char)
+    for _i in range(10):
+        tweet_length = random.randint(1, max_char)
+        tweet = text_model.make_short_sentence(tweet_length)
+        print(tweet)
+        if tweet in DISALLOW_LIST:
+            continue
+        break
+    return tweet or " "
 
 
 def tweet():
