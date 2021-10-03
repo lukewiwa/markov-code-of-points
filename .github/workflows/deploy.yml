@@ -1,0 +1,29 @@
+name: Deploy to AWS
+
+on: workflow_dispatch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      AWS_DEFAULT_REGION: "ap-southeast-2"
+      TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
+      TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+      TWITTER_TOKEN: ${{ secrets.TWITTER_TOKEN }}
+      TWITTER_TOKEN_SECRET: ${{ secrets.TWITTER_TOKEN_SECRET }}
+    steps:
+      - uses: actions/checkout@v1
+
+      - name: Use Node.js 14.16.0
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14.16.0
+
+      - name: install infra deps
+        working-directory: markov-code-of-points-cdk
+        run: npm install
+
+      - name: deploy
+        run: make deploy
