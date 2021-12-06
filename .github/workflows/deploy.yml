@@ -21,6 +21,11 @@ jobs:
         with:
           node-version: 14.16.0
 
+      - uses: docker/setup-buildx-action@v1
+        id: buildx
+        with:
+          install: true
+
       - name: install infra deps
         working-directory: markov-code-of-points-cdk
         run: npm install

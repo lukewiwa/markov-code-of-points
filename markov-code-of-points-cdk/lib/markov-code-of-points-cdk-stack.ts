@@ -21,6 +21,7 @@ export class MarkovCodeOfPointsCdkStack extends cdk.Stack {
         TWITTER_TOKEN_SECRET: process.env.TWITTER_TOKEN_SECRET ?? "",
       },
       timeout: cdk.Duration.seconds(10),
+      architecture: lambda.Architecture.ARM_64
     });
 
     const CoPFnRule = new events.Rule(this, "CoPMarkovTwitterSchedule", {
