@@ -7,6 +7,7 @@ RUN curl -sL https://deb.nodesource.com/setup_14.x | bash -
 RUN apt-get install -y --no-install-recommends nodejs openssh-client
 
 # Install poetry
+ENV POETRY_VIRTUALENVS_CREATE="false"
 RUN curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
 ENV PATH="/root/.poetry/bin:$PATH"
 

@@ -16,9 +16,6 @@ services:
     volumes:
       - .:${PROJECT_DIR}:cached
       - ./entrypoint.sh:/entrypoint.sh
-      - cop-markov-pypoetry-cache:/root/.cache/pypoetry/
       - /var/run/docker.sock:/var/run/docker.sock
     entrypoint: /entrypoint.sh
-
-volumes:
-  cop-markov-pypoetry-cache:
+    command: sleep infinity

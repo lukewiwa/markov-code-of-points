@@ -1,14 +1,15 @@
-import * as cdk from "@aws-cdk/core";
-import * as lambda from "@aws-cdk/aws-lambda";
-import { PythonFunction } from "@aws-cdk/aws-lambda-python";
-import * as events from "@aws-cdk/aws-events";
-import * as targets from "@aws-cdk/aws-events-targets";
+import { Stack, StackProps, Tags, Duration } from "aws-cdk-lib";
+import { Construct } from "constructs";
+import * as lambda from "aws-cdk-lib/aws-lambda";
+import { PythonFunction } from "@aws-cdk/aws-lambda-python-alpha";
+import * as events from "aws-cdk-lib/aws-events";
+import * as targets from "aws-cdk-lib/aws-events-targets";
 import * as path from "path";
 
 const PROJECT_TAG = "cop-markov-twitter";
 
-export class MarkovCodeOfPointsCdkStack extends cdk.Stack {
-  constructor(scope: cdk.Construct, id: string, props?: cdk.StackProps) {
+export class MarkovCodeOfPointsCdkStack extends Stack {
+  constructor(scope: Construct, id: string, props?: StackProps) {
     super(scope, id, props);
 
     const CoPFn = new PythonFunction(this, "CoPMarkovTwitterFunction", {
@@ -20,7 +21,7 @@ export class MarkovCodeOfPointsCdkStack extends cdk.Stack {
         TWITTER_TOKEN: process.env.TWITTER_TOKEN ?? "",
         TWITTER_TOKEN_SECRET: process.env.TWITTER_TOKEN_SECRET ?? "",
       },
-      timeout: cdk.Duration.seconds(10),
+      timeout: Duration.seconds(10),
     });
 
     const CoPFnRule = new events.Rule(this, "CoPMarkovTwitterSchedule", {
@@ -30,7 +31,7 @@ export class MarkovCodeOfPointsCdkStack extends cdk.Stack {
       targets: [new targets.LambdaFunction(CoPFn)],
     });
 
-    cdk.Tags.of(CoPFn).add("project", PROJECT_TAG);
-    cdk.Tags.of(CoPFnRule).add("project", PROJECT_TAG);
+    Tags.of(CoPFn).add("project", PROJECT_TAG);
+    Tags.of(CoPFnRule).add("project", PROJECT_TAG);
   }
 }
